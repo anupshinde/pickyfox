@@ -281,8 +281,8 @@ Automated behaviors free up mental energy for important decisions instead of con
 
 **Remember:** You're not trying to change everything at once. You're building a system of small behaviors that naturally lead to the life you want.
 
-*Ready to start your compound journey?* Pick one tiny behavior from this post and commit to it for 30 days. [Get in touch](/contact) with what you choose - I love tracking these transformations.
+*Ready to start your compound journey?* Pick one tiny behavior from this post and commit to it for 30 days. [Get in touch](/contact/) with what you choose - I love tracking these transformations.
 
 ---
 
-*Want more habit-building strategies? Check out our *[*focus techniques that actually work*](/start-reading-again-distracted-brain)* or explore *[*productivity systems*](/productivity-systems)* that stick.*
+*Want more habit-building strategies? Check out our *[*focus techniques that actually work*](/start-reading-again-distracted-brain/)* or explore *[*productivity systems*](/productivity-systems/)* that stick.*

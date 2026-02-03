@@ -270,8 +270,8 @@ These books don't teach you to empty your mind. They teach you to aim your menta
 
 **Your brain is powerful. These books help you point that power in the right direction.**
 
-*What's your biggest overthinking trigger?* [Get in touch](/contact) to share your mental spiral stories - I'm collecting what actually works for fellow overthinkers.
+*What's your biggest overthinking trigger?* [Get in touch](/contact/) to share your mental spiral stories - I'm collecting what actually works for fellow overthinkers.
 
 ---
 
-*Ready to put your newly-focused brain to work? Check out our *[*decision-making framework*](/make-decisions-faster-less-regret)* or explore *[*productivity systems*](/productivity-systems)* to channel your mental energy productively.*
+*Ready to put your newly-focused brain to work? Check out our *[*decision-making framework*](/make-decisions-faster-less-regret/)* or explore *[*productivity systems*](/productivity-systems/)* to channel your mental energy productively.*

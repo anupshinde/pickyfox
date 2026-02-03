@@ -251,8 +251,8 @@ You don't need to love every moment of your life. You just need to survive the h
 
 Your nervous system will thank you, even if it takes a while to trust that you're actually taking care of it.
 
-*Feeling overwhelmed by this list?* [Get in touch](/contact) to share what's working (or not working) for you - stress management is deeply personal, and sometimes you need to talk through what might actually fit your life.
+*Feeling overwhelmed by this list?* [Get in touch](/contact/) to share what's working (or not working) for you - stress management is deeply personal, and sometimes you need to talk through what might actually fit your life.
 
 ---
 
-*Ready to build on your stress management foundation? Check out our *[*boundary-setting strategies*](/boundary-setting-strategies)* or explore *[*energy management guide*](/energy-management-guide)* to create a more sustainable approach to productivity.*
+*Ready to build on your stress management foundation? Check out our *[*boundary-setting strategies*](/boundary-setting-strategies/)* or explore *[*energy management guide*](/energy-management-guide/)* to create a more sustainable approach to productivity.*

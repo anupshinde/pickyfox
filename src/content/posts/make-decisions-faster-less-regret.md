@@ -287,8 +287,8 @@ Good enough choices made quickly beat perfect choices made too late.
 
 Indecision is a decision to stay stuck where you are.
 
-*What's your biggest decision-making challenge?* [Get in touch](/contact) to share about strategies that help you choose faster - I'm collecting approaches that cut through analysis paralysis.
+*What's your biggest decision-making challenge?* [Get in touch](/contact/) to share about strategies that help you choose faster - I'm collecting approaches that cut through analysis paralysis.
 
 ---
 
-*Ready to apply your faster decision-making? Check out our *[*productivity systems*](/productivity-systems)* or explore *[*problem-solving tools*](/problem-solving-tools)* to put your improved choices to work.*
+*Ready to apply your faster decision-making? Check out our *[*productivity systems*](/productivity-systems/)* or explore *[*problem-solving tools*](/problem-solving-tools/)* to put your improved choices to work.*

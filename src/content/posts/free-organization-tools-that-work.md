@@ -287,8 +287,8 @@ Free tools can disappear. Export your data occasionally.
 
 *Feeling overwhelmed by all these options?* Start with just Notion or Todoist. Use it for two weeks. Then come back and add one more tool. Baby steps beat grand reorganization plans that fizzle out by Tuesday.
 
-[Get in touch](/contact) if you want to share what's working for you - I'm always collecting real-world organization wins.
+[Get in touch](/contact/) if you want to share what's working for you - I'm always collecting real-world organization wins.
 
 ---
 
-*Need more practical life systems? Check out our *[*productivity systems*](/productivity-systems)* or explore *[*budget-friendly tools for remote work*](/free-tools-remote-workers)*.*
+*Need more practical life systems? Check out our *[*productivity systems*](/productivity-systems/)* or explore *[*budget-friendly tools for remote work*](/free-tools-remote-workers/)*.*

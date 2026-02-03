@@ -302,8 +302,8 @@ People connect with humans, not corporate robots
 
 **The payoff:** Career opportunities come to you instead of you chasing them
 
-*Ready to build your professional presence without the fake guru BS?* Pick one platform and commit to posting value-driven content twice a week for 90 days. [Get in touch](/contact) with your progress - I love seeing authentic personal brands develop.
+*Ready to build your professional presence without the fake guru BS?* Pick one platform and commit to posting value-driven content twice a week for 90 days. [Get in touch](/contact/) with your progress - I love seeing authentic personal brands develop.
 
 ---
 
-*Want more career development advice? Check out our *[*books for navigating career confusion*](/career-confusion-books)* or explore *[*freelancing starter pack for building your reputation*](/personal-brand-from-scratch)*.*
+*Want more career development advice? Check out our *[*books for navigating career confusion*](/career-confusion-books/)* or explore *[*freelancing starter pack for building your reputation*](/personal-brand-from-scratch/)*.*

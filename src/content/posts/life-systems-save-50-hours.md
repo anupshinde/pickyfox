@@ -343,8 +343,8 @@ Good enough systems that you use beat perfect systems you abandon
 
 **The mental health benefit:** Reduced decision fatigue and daily stress creates space for creativity and relationships.
 
-*Ready to get some of your life back?* Pick one system from this post that addresses your biggest time drain and set it up this weekend. [Get in touch](/contact) with your results - I love hearing about systems that give people their time back.
+*Ready to get some of your life back?* Pick one system from this post that addresses your biggest time drain and set it up this weekend. [Get in touch](/contact/) with your results - I love hearing about systems that give people their time back.
 
 ---
 
-*Want more life optimization strategies? Check out our *[*apps that replace 5 other apps*](/apps-replace-5-other-apps)* or explore *[*small behaviors that compound into big time savings*](/life-systems-save-50-hours)*.*
+*Want more life optimization strategies? Check out our *[*apps that replace 5 other apps*](/apps-replace-5-other-apps/)* or explore *[*small behaviors that compound into big time savings*](/life-systems-save-50-hours/)*.*

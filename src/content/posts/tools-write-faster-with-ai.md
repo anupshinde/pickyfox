@@ -282,8 +282,8 @@ Good systems matter more than perfect tools.
 
 Tools should enhance your thinking, not replace it.
 
-*What's your biggest writing challenge?* [Get in touch](/contact) to share about tools and techniques that speed up your writing - I'm always testing new approaches.
+*What's your biggest writing challenge?* [Get in touch](/contact/) to share about tools and techniques that speed up your writing - I'm always testing new approaches.
 
 ---
 
-*Ready to optimize your content creation further? Check out our *[*productivity systems*](/productivity-systems)* or explore *[*automation starter pack*](/automation-starter-pack)* to make your faster writing more impactful.*
+*Ready to optimize your content creation further? Check out our *[*productivity systems*](/productivity-systems/)* or explore *[*automation starter pack*](/automation-starter-pack/)* to make your faster writing more impactful.*

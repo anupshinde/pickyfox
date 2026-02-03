@@ -267,8 +267,8 @@ These tools are better for execution than ideation
 
 **Start small, be patient with the learning curve,** and focus on tools that solve problems you actually have.
 
-*Curious about a specific tool or have questions about implementation?* [Get in touch](/contact) - I love hearing how people integrate AI into their actual work (not just the hype).
+*Curious about a specific tool or have questions about implementation?* [Get in touch](/contact/) - I love hearing how people integrate AI into their actual work (not just the hype).
 
 ---
 
-*Want more practical technology advice? Check out our *[*organization tools that actually work*](/free-organization-tools-that-work)* or explore *[*remote work setups that don't break the bank*](/budget-remote-work-setup)*.*
+*Want more practical technology advice? Check out our *[*organization tools that actually work*](/free-organization-tools-that-work/)* or explore *[*remote work setups that don't break the bank*](/budget-remote-work-setup/)*.*

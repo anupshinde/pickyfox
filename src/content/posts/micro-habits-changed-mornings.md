@@ -324,8 +324,8 @@ You just need to make mornings less terrible and more predictable.
 
 Start tiny, stay consistent, and let momentum build naturally.
 
-*What's your biggest morning struggle?* [Get in touch](/contact) to share about morning wins and fails - I'm collecting what actually works for people who hate getting up.
+*What's your biggest morning struggle?* [Get in touch](/contact/) to share about morning wins and fails - I'm collecting what actually works for people who hate getting up.
 
 ---
 
-*Ready to optimize the rest of your day? Check out our *[*energy management guide*](/energy-management-guide)* or explore *[*stress management strategies*](/stress-management-guide)* to bookend your days with intention.*
+*Ready to optimize the rest of your day? Check out our *[*energy management guide*](/energy-management-guide/)* or explore *[*stress management strategies*](/stress-management-guide/)* to bookend your days with intention.*

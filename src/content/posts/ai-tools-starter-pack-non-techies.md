@@ -244,8 +244,8 @@ You don't need to understand how they work any more than you need to understand 
 
 Your future self will thank you when you're getting twice as much done in half the time, while everyone else is still arguing about whether AI is going to take over the world.
 
-*Which AI tool are you going to try first?* [Get in touch](/contact) to share your results - I love hearing about people's first AI wins (and epic fails).
+*Which AI tool are you going to try first?* [Get in touch](/contact/) to share your results - I love hearing about people's first AI wins (and epic fails).
 
 ---
 
-*Ready for more productivity upgrades? Check out our *[*automation starter pack*](/automation-starter-pack)* or learn about *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* to keep building your efficiency empire.*
+*Ready for more productivity upgrades? Check out our *[*automation starter pack*](/automation-starter-pack/)* or learn about *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* to keep building your efficiency empire.*

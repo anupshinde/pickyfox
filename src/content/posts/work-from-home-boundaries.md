@@ -318,8 +318,8 @@ Your rituals can be as simple as changing shirts and closing your laptop. What m
 
 Start simple, stay consistent, and protect your rituals like you protect your income.
 
-*What's your biggest work-from-home boundary challenge?* [Get in touch](/contact) to share your boundary wins and struggles - I'm collecting what actually works for real remote workers.
+*What's your biggest work-from-home boundary challenge?* [Get in touch](/contact/) to share your boundary wins and struggles - I'm collecting what actually works for real remote workers.
 
 ---
 
-*Ready to optimize your new boundaries? Check out our *[*stress management guide*](/stress-management-guide)* or explore *[*boundary-setting strategies*](/boundary-setting-strategies)* to make your work-from-home life even better.*
+*Ready to optimize your new boundaries? Check out our *[*stress management guide*](/stress-management-guide/)* or explore *[*boundary-setting strategies*](/boundary-setting-strategies/)* to make your work-from-home life even better.*

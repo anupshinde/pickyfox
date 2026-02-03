@@ -314,8 +314,8 @@ You need to stop the bleeding and create space to breathe.
 
 Small moves add up to significant change over time.
 
-*What's your biggest burnout challenge?* [Get in touch](/contact) to share about recovery strategies that work within constraints - I'm collecting approaches for people who can't just walk away.
+*What's your biggest burnout challenge?* [Get in touch](/contact/) to share about recovery strategies that work within constraints - I'm collecting approaches for people who can't just walk away.
 
 ---
 
-*Ready for more recovery support? Check out our *[*stress management guide*](/stress-management-guide)* or explore *[*boundary-setting strategies*](/boundary-setting-strategies)* for people with demanding jobs.*
+*Ready for more recovery support? Check out our *[*stress management guide*](/stress-management-guide/)* or explore *[*boundary-setting strategies*](/boundary-setting-strategies/)* for people with demanding jobs.*

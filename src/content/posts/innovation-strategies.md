@@ -450,8 +450,8 @@ The innovations that change the world rarely come from "thinking outside the box
 
 Most importantly, remember that innovation is not about being the first to think of something - it's about being the first to make something useful work.
 
-*Working on an innovation challenge?* [Get in touch](/contact) to think through your approach - sometimes discussing your innovation process with someone outside your field helps identify new possibilities you couldn't see from inside your domain.
+*Working on an innovation challenge?* [Get in touch](/contact/) to think through your approach - sometimes discussing your innovation process with someone outside your field helps identify new possibilities you couldn't see from inside your domain.
 
 ---
 
-*Ready to implement your innovations more effectively? Check out our *[*problem-solving tools*](/problem-solving-tools)* for systematic approaches to complex challenges, or explore our *[*deep work strategies*](/deep-work-strategies)* to protect the sustained thinking time innovation requires.*
+*Ready to implement your innovations more effectively? Check out our *[*problem-solving tools*](/problem-solving-tools/)* for systematic approaches to complex challenges, or explore our *[*deep work strategies*](/deep-work-strategies/)* to protect the sustained thinking time innovation requires.*

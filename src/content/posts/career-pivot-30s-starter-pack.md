@@ -312,8 +312,8 @@ You need to become the same person in a different context that values what you b
 
 Your experience is an asset, not a liability, when positioned correctly.
 
-*What's your biggest career pivot challenge?* [Get in touch](/contact) to share about your career change journey - I'm collecting strategies that actually work for adults with responsibilities.
+*What's your biggest career pivot challenge?* [Get in touch](/contact/) to share about your career change journey - I'm collecting strategies that actually work for adults with responsibilities.
 
 ---
 
-*Ready to take action on your pivot? Check out our *[*client management strategies*](/client-management-strategies)* or explore *[*productivity systems*](/productivity-systems)* for career changers to accelerate your transition.*
+*Ready to take action on your pivot? Check out our *[*client management strategies*](/client-management-strategies/)* or explore *[*productivity systems*](/productivity-systems/)* for career changers to accelerate your transition.*

@@ -284,8 +284,8 @@ This is where you spend most of your day
 
 *Starting your remote work journey and feeling overwhelmed?* Pick one thing from this list and get it this week. Next week, add one more thing. Your back (and your productivity) will thank you.
 
-[Get in touch](/contact) with photos of your budget setup - I love seeing what people create with limited resources.
+[Get in touch](/contact/) with photos of your budget setup - I love seeing what people create with limited resources.
 
 ---
 
-*Need more remote work survival tips? Check out our *[*productivity systems*](/productivity-systems)* that actually work or explore *[*tools for building side hustles from home*](/weekend-side-hustle-tools)*.*
+*Need more remote work survival tips? Check out our *[*productivity systems*](/productivity-systems/)* that actually work or explore *[*tools for building side hustles from home*](/weekend-side-hustle-tools/)*.*

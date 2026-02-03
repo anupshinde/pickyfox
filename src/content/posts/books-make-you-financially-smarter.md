@@ -281,8 +281,8 @@ Here's what I learned after reading dozens of money books (and making expensive 
 
 ---
 
-*Ready to actually change your financial situation instead of just reading about it?* Pick one book from the foundation list, read it completely, then implement one specific change for 30 days. [Get in touch](/contact) with your results - I love hearing about financial transformations that stick.
+*Ready to actually change your financial situation instead of just reading about it?* Pick one book from the foundation list, read it completely, then implement one specific change for 30 days. [Get in touch](/contact/) with your results - I love hearing about financial transformations that stick.
 
 ---
 
-*Want more practical money strategies? Check out our *[*budget tools that make money management fun*](/budget-tools-make-money-fun)* or explore *[*life systems that save time and money*](/life-systems-save-50-hours)*.*
+*Want more practical money strategies? Check out our *[*budget tools that make money management fun*](/budget-tools-make-money-fun/)* or explore *[*life systems that save time and money*](/life-systems-save-50-hours/)*.*

@@ -331,8 +331,8 @@ These books provide the systematic training your attention muscle needs.
 
 Your brain can relearn deep focus with consistent practice.
 
-*What's your biggest focus challenge?* [Get in touch](/contact) to share about attention strategies that work - I'm collecting focus techniques for scattered modern minds.
+*What's your biggest focus challenge?* [Get in touch](/contact/) to share about attention strategies that work - I'm collecting focus techniques for scattered modern minds.
 
 ---
 
-*Ready to put your improved focus to work? Check out our *[*deep work strategies*](/deep-work-strategies)* or explore *[*productivity systems*](/productivity-systems)* designed for focused minds.*
+*Ready to put your improved focus to work? Check out our *[*deep work strategies*](/deep-work-strategies/)* or explore *[*productivity systems*](/productivity-systems/)* designed for focused minds.*

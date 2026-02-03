@@ -310,8 +310,8 @@ Mental models are thinking frameworks that help you process information and make
 
 **The key:** Having a small toolkit you know well beats having many models you forget under pressure.
 
-*Feeling overwhelmed right now?* Try the Triage framework on whatever's stressing you most, then [get in touch](/contact) with how it goes - I love hearing which mental models resonate with different people.
+*Feeling overwhelmed right now?* Try the Triage framework on whatever's stressing you most, then [get in touch](/contact/) with how it goes - I love hearing which mental models resonate with different people.
 
 ---
 
-*Want more stress management tools? Check out our *[*small behaviors that compound into relief*](/small-behaviors-compound-results)* or explore *[*problem-solving tools*](/problem-solving-tools)* for getting hard tasks done.*
+*Want more stress management tools? Check out our *[*small behaviors that compound into relief*](/small-behaviors-compound-results/)* or explore *[*problem-solving tools*](/problem-solving-tools/)* for getting hard tasks done.*

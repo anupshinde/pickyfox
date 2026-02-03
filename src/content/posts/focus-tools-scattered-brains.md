@@ -376,8 +376,8 @@ Your scattered brain isn't a design flaw - it's just how your brain works. The s
 
 **Start with one tool that addresses your biggest focus challenge.** Build from there. Don't try to overhaul your entire focus system at once - that's a recipe for giving up when things get complicated.
 
-*Struggling to figure out which focus tools might work for your specific situation?* [Get in touch](/contact) to talk through what's derailing your focus most often - sometimes an outside perspective helps identify patterns you can't see yourself.
+*Struggling to figure out which focus tools might work for your specific situation?* [Get in touch](/contact/) to talk through what's derailing your focus most often - sometimes an outside perspective helps identify patterns you can't see yourself.
 
 ---
 
-*Ready to build on your focus improvements? Check out our *[*automation starter pack*](/automation-starter-pack)* to reduce the mental overhead that makes focus harder, or explore *[*productivity systems*](/productivity-systems)* that work with scattered brains instead of against them.*
+*Ready to build on your focus improvements? Check out our *[*automation starter pack*](/automation-starter-pack/)* to reduce the mental overhead that makes focus harder, or explore *[*productivity systems*](/productivity-systems/)* that work with scattered brains instead of against them.*

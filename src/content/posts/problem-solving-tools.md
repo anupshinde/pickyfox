@@ -409,8 +409,8 @@ Example: Communication problems might involve tools, processes, and culture
 
 Start with simple tools, practice on real problems, and gradually build your toolkit. Soon you'll be the person others come to when they're stuck - and you'll have the confidence to tackle challenges that once seemed impossible.
 
-*Working on a particularly challenging problem?* [Reach out](/contact) to think through it together - sometimes talking through your approach with someone else helps clarify the path forward.
+*Working on a particularly challenging problem?* [Reach out](/contact/) to think through it together - sometimes talking through your approach with someone else helps clarify the path forward.
 
 ---
 
-*Ready to implement your solutions more effectively? Check out our *[*deep work strategies*](/deep-work-strategies)* for sustained problem-solving sessions, or explore our *[*productivity systems*](/productivity-systems)* to organize your problem-solving process more efficiently.*
+*Ready to implement your solutions more effectively? Check out our *[*deep work strategies*](/deep-work-strategies/)* for sustained problem-solving sessions, or explore our *[*productivity systems*](/productivity-systems/)* to organize your problem-solving process more efficiently.*

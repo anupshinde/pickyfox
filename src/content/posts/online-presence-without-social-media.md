@@ -273,8 +273,8 @@ Your website, email list, and professional relationships can't be deleted by alg
 
 Quality connections beat quantity connections every single time.
 
-*What's your biggest challenge with online presence?* [Get in touch](/contact) to share about your anti-social media wins - I'm collecting proof that this approach actually works.
+*What's your biggest challenge with online presence?* [Get in touch](/contact/) to share about your anti-social media wins - I'm collecting proof that this approach actually works.
 
 ---
 
-*Ready to optimize your new online presence? Check out our *[*client management strategies*](/client-management-strategies)* or explore *[*productivity systems*](/productivity-systems)* to make your anti-social media approach even more effective.*
+*Ready to optimize your new online presence? Check out our *[*client management strategies*](/client-management-strategies/)* or explore *[*productivity systems*](/productivity-systems/)* to make your anti-social media approach even more effective.*

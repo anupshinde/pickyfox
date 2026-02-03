@@ -293,8 +293,8 @@ Life's too short for books you hate
 
 *Feeling overwhelmed by choice?* Start with one book recommendation: "The Seven Husbands of Evelyn Hugo" by Taylor Jenkins Reid. It's engaging, well-written, and perfect for rebuilding your reading habit.
 
-[Get in touch](/contact) with your reading comeback stories - I love hearing how people fall back in love with books.
+[Get in touch](/contact/) with your reading comeback stories - I love hearing how people fall back in love with books.
 
 ---
 
-*Want more habit-building strategies? Check out our *[*focus techniques that actually work*](/start-reading-again-distracted-brain)* or explore *[*productivity systems*](/productivity-systems)* for scattered brains.*
+*Want more habit-building strategies? Check out our *[*focus techniques that actually work*](/start-reading-again-distracted-brain/)* or explore *[*productivity systems*](/productivity-systems/)* for scattered brains.*

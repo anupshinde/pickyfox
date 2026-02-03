@@ -324,8 +324,8 @@ Practical considerations matter for most people
 
 **Financial realities matter.** Good career advice acknowledges practical constraints.
 
-*Feeling stuck in your career journey?* Start with "So Good They Can't Ignore You" to reframe your thinking, then add "Designing Your Life" for practical strategies. [Get in touch](/contact) with your career transition stories - I love hearing how people navigate professional uncertainty.
+*Feeling stuck in your career journey?* Start with "So Good They Can't Ignore You" to reframe your thinking, then add "Designing Your Life" for practical strategies. [Get in touch](/contact/) with your career transition stories - I love hearing how people navigate professional uncertainty.
 
 ---
 
-*Want more professional development resources? Check out our *[*personal branding starter pack*](/personal-brand-from-scratch)* or explore *[*books that make you financially smarter while changing careers*](/books-make-you-financially-smarter)*.*
+*Want more professional development resources? Check out our *[*personal branding starter pack*](/personal-brand-from-scratch/)* or explore *[*books that make you financially smarter while changing careers*](/books-make-you-financially-smarter/)*.*

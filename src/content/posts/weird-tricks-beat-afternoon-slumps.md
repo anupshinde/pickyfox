@@ -182,8 +182,8 @@ These weird tricks work in cubicles, home offices, coffee shops, and anywhere el
 
 The next time that afternoon wall hits, you'll be ready to torch it instead of surrender to it.
 
-*What's the weirdest energy trick that actually works for you?* [Get in touch](/contact) to share your battle-tested secrets - I'm always collecting ammunition for the war against afternoon fatigue.
+*What's the weirdest energy trick that actually works for you?* [Get in touch](/contact/) to share your battle-tested secrets - I'm always collecting ammunition for the war against afternoon fatigue.
 
 ---
 
-*Ready to weaponize your productivity further? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* or learn about *[*energy management guide*](/energy-management-guide)* to keep the momentum going.*
+*Ready to weaponize your productivity further? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* or learn about *[*energy management guide*](/energy-management-guide/)* to keep the momentum going.*

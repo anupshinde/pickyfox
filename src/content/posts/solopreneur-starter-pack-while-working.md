@@ -286,8 +286,8 @@ You get to test your ideas with a safety net, build systems gradually, and leave
 
 The best time to build your freedom plan was yesterday. The second best time is right now.
 
-*What's your biggest fear about starting your escape plan?* [Get in touch](/contact) to share - I've probably faced it too and can share what actually works.
+*What's your biggest fear about starting your escape plan?* [Get in touch](/contact/) to share - I've probably faced it too and can share what actually works.
 
 ---
 
-*Ready to level up your transition? Check out our *[*client management strategies*](/client-management-strategies)* or learn about *[*productivity systems*](/productivity-systems)* to accelerate your escape velocity.*
+*Ready to level up your transition? Check out our *[*client management strategies*](/client-management-strategies/)* or learn about *[*productivity systems*](/productivity-systems/)* to accelerate your escape velocity.*

@@ -475,8 +475,8 @@ You haven't lost your ability to focus deeply. You've just gotten really good at
 
 Start small, be consistent, and protect your cognitive resources like the precious assets they are. Your future self will thank you.
 
-*Need help designing a deep work practice that fits your specific situation?* [Get in touch](/contact) to talk through the unique challenges in your work environment - sometimes an outside perspective helps identify solutions you can't see from inside the chaos.
+*Need help designing a deep work practice that fits your specific situation?* [Get in touch](/contact/) to talk through the unique challenges in your work environment - sometimes an outside perspective helps identify solutions you can't see from inside the chaos.
 
 ---
 
-*Ready to complement your deep work practice? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* for additional concentration techniques, or explore our *[*productivity systems*](/productivity-systems)* to better organize the shallow work that supports your deep thinking.*
+*Ready to complement your deep work practice? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* for additional concentration techniques, or explore our *[*productivity systems*](/productivity-systems/)* to better organize the shallow work that supports your deep thinking.*

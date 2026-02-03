@@ -288,8 +288,8 @@ Flexibility is essential for real family life
 
 **Your child's temperament affects what works.** Some kids need different approaches than others.
 
-*Feeling overwhelmed by parenting decisions?* Start with "How to Talk So Kids Will Listen" - it's practical and immediately useful. [Get in touch](/contact) with your parenting book recommendations - I'm always looking for resources that actually help real families.
+*Feeling overwhelmed by parenting decisions?* Start with "How to Talk So Kids Will Listen" - it's practical and immediately useful. [Get in touch](/contact/) with your parenting book recommendations - I'm always looking for resources that actually help real families.
 
 ---
 
-*Want more family-focused advice? Check out our *[*books for navigating career confusion while parenting*](/career-confusion-books)* or explore *[*stress management strategies*](/stress-management-guide)* that work for busy families.*
+*Want more family-focused advice? Check out our *[*books for navigating career confusion while parenting*](/career-confusion-books/)* or explore *[*stress management strategies*](/stress-management-guide/)* that work for busy families.*

@@ -303,8 +303,8 @@ Your business doesn't need another book on your shelf. It needs you to implement
 
 **The goal isn't to become a business book expert. It's to become a better freelancer.**
 
-*Which book rescued your freelance business?* [Get in touch](/contact) to share your recommendations - I'm always looking for books that actually work in the real world.
+*Which book rescued your freelance business?* [Get in touch](/contact/) to share your recommendations - I'm always looking for books that actually work in the real world.
 
 ---
 
-*Ready to implement what you learn? Check out our *[*productivity systems*](/productivity-systems)* or explore *[*client management strategies*](/client-management-strategies)* to put your reading into action.*
+*Ready to implement what you learn? Check out our *[*productivity systems*](/productivity-systems/)* or explore *[*client management strategies*](/client-management-strategies/)* to put your reading into action.*

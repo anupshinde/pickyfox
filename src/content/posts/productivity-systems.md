@@ -354,8 +354,8 @@ The best productivity system is the one that makes your life easier, not harder.
 
 Most importantly, remember that productivity systems are tools, not moral judgments. A good system serves you; you don't serve the system.
 
-*Need help designing a system that fits your specific situation?* [Get in touch](/contact) to talk through what's not working in your current approach - sometimes an outside perspective helps identify what you actually need vs. what you think you should want.
+*Need help designing a system that fits your specific situation?* [Get in touch](/contact/) to talk through what's not working in your current approach - sometimes an outside perspective helps identify what you actually need vs. what you think you should want.
 
 ---
 
-*Ready to optimize your new system? Check out our *[*automation starter pack*](/automation-starter-pack)* to reduce manual maintenance, or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* to make the most of your organized priorities.*
+*Ready to optimize your new system? Check out our *[*automation starter pack*](/automation-starter-pack/)* to reduce manual maintenance, or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* to make the most of your organized priorities.*

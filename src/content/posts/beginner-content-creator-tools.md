@@ -318,8 +318,8 @@ Those $10/month tools add up quickly
 
 **Start now with what you have.** Perfect setups are procrastination in disguise.
 
-*Ready to start creating but feeling overwhelmed?* Pick one content type, download one free tool, and make something this week. [Get in touch](/contact) with what you create - I love seeing what people build with limited resources.
+*Ready to start creating but feeling overwhelmed?* Pick one content type, download one free tool, and make something this week. [Get in touch](/contact/) with what you create - I love seeing what people build with limited resources.
 
 ---
 
-*Want more creative career advice? Check out our *[*freelancing starter pack*](/freelance-writing-starter-pack)* or explore *[*building side hustles on weekends*](/weekend-side-hustle-tools)*.*
+*Want more creative career advice? Check out our *[*freelancing starter pack*](/freelance-writing-starter-pack/)* or explore *[*building side hustles on weekends*](/weekend-side-hustle-tools/)*.*

@@ -307,8 +307,8 @@ The difference between smart people and wise people isn't IQ - it's mental model
 
 **You already have the intelligence. These books give you the thinking frameworks to use it.**
 
-*What's your biggest thinking challenge?* [Get in touch](/contact) to share about books that rewired your brain - I'm always looking for mind-expanding reads that actually stick.
+*What's your biggest thinking challenge?* [Get in touch](/contact/) to share about books that rewired your brain - I'm always looking for mind-expanding reads that actually stick.
 
 ---
 
-*Ready to apply better thinking to specific challenges? Check out our *[*decision-making framework*](/make-decisions-faster-less-regret)* or explore *[*problem-solving tools*](/problem-solving-tools)* to put your upgraded brain to work.*
+*Ready to apply better thinking to specific challenges? Check out our *[*decision-making framework*](/make-decisions-faster-less-regret/)* or explore *[*problem-solving tools*](/problem-solving-tools/)* to put your upgraded brain to work.*

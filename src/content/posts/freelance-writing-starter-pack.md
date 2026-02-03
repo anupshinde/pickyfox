@@ -228,8 +228,8 @@ Their highlight reel isn't your behind-the-scenes struggle.
 
 **Start messy, improve as you go.** Perfect portfolios and websites don't get clients. Consistent outreach and quality work do.
 
-*Ready to stop talking and start freelancing?* Pick one thing from this post and do it today. Tomorrow, pick another thing. In 90 days, [get in touch](/contact) to share your success story - I love hearing how this stuff works in the real world.
+*Ready to stop talking and start freelancing?* Pick one thing from this post and do it today. Tomorrow, pick another thing. In 90 days, [get in touch](/contact/) to share your success story - I love hearing how this stuff works in the real world.
 
 ---
 
-*Want more no-BS business advice? Check out our *[*side hustle starter packs*](/weekend-side-hustle-tools)* or learn about *[*client management strategies*](/client-management-strategies)* that actually work.*
+*Want more no-BS business advice? Check out our *[*side hustle starter packs*](/weekend-side-hustle-tools/)* or learn about *[*client management strategies*](/client-management-strategies/)* that actually work.*

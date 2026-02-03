@@ -360,8 +360,8 @@ Some days you'll have tons of energy. Some days you'll have very little. Both ar
 
 **Start with one small change.** Energy compounds over time.
 
-*Ready to level up your energy management?* [Get in touch](/contact) to share what's working for your energy patterns - everyone's system looks different, and sometimes talking through it helps clarify what might work for your specific situation.
+*Ready to level up your energy management?* [Get in touch](/contact/) to share what's working for your energy patterns - everyone's system looks different, and sometimes talking through it helps clarify what might work for your specific situation.
 
 ---
 
-*Want to optimize your energy further? Check out our *[*stress management guide*](/stress-management-guide)* to reduce energy drains, or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* to make the most of your mental energy.*
+*Want to optimize your energy further? Check out our *[*stress management guide*](/stress-management-guide/)* to reduce energy drains, or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* to make the most of your mental energy.*

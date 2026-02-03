@@ -308,8 +308,8 @@ Using 10% of an expensive tool's features
 
 **Your tool stack should evolve.** What works at $1,000/month won't work at $10,000/month.
 
-*Ready to stop working harder and start working smarter?* Pick one tool from this list and implement it this weekend. Then [get in touch](/contact) with your results - I love hearing how the right tools transform side hustles.
+*Ready to stop working harder and start working smarter?* Pick one tool from this list and implement it this weekend. Then [get in touch](/contact/) with your results - I love hearing how the right tools transform side hustles.
 
 ---
 
-*Want more weekend entrepreneur advice? Check out our *[*freelancing starter pack*](/freelance-writing-starter-pack)* or explore *[*budget remote work setups*](/budget-remote-work-setup)*.*
+*Want more weekend entrepreneur advice? Check out our *[*freelancing starter pack*](/freelance-writing-starter-pack/)* or explore *[*budget remote work setups*](/budget-remote-work-setup/)*.*

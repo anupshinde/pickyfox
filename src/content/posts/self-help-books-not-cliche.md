@@ -258,8 +258,8 @@ Individual differences matter
 
 **Reading about change is easy. Actually changing requires patience and persistence.**
 
-*Looking for your next read?* Start with "Atomic Habits" if you struggle with consistency, or "Digital Minimalism" if technology feels overwhelming. [Get in touch](/contact) with your favorite practical self-help books - I'm always looking for recommendations that actually help people.
+*Looking for your next read?* Start with "Atomic Habits" if you struggle with consistency, or "Digital Minimalism" if technology feels overwhelming. [Get in touch](/contact/) with your favorite practical self-help books - I'm always looking for recommendations that actually help people.
 
 ---
 
-*Want more practical advice? Check out our *[*reading habits for distracted brains*](/start-reading-again-distracted-brain)* or explore *[*small behaviors that compound into big results*](/small-behaviors-compound-results)*.*
+*Want more practical advice? Check out our *[*reading habits for distracted brains*](/start-reading-again-distracted-brain/)* or explore *[*small behaviors that compound into big results*](/small-behaviors-compound-results/)*.*

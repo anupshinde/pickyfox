@@ -269,8 +269,8 @@ Sometimes knowing you're not alone is more healing than any advice.
 
 Your brain will absorb what it needs when it's ready.
 
-*What's your experience with burnout recovery?* [Get in touch](/contact) to share about books that helped (or didn't help) - I'm collecting resources for people in the thick of it.
+*What's your experience with burnout recovery?* [Get in touch](/contact/) to share about books that helped (or didn't help) - I'm collecting resources for people in the thick of it.
 
 ---
 
-*Ready for more recovery resources? Check out our *[*stress management guide*](/stress-management-guide)* or explore *[*boundary-setting strategies*](/boundary-setting-strategies)* when you're feeling stronger.*
+*Ready for more recovery resources? Check out our *[*stress management guide*](/stress-management-guide/)* or explore *[*boundary-setting strategies*](/boundary-setting-strategies/)* when you're feeling stronger.*

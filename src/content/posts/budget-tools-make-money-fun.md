@@ -316,8 +316,8 @@ Manual tracking burns out quickly
 
 **Progress beats perfection.** Better financial awareness through fun tools beats perfect tracking you'll abandon.
 
-*Ready to make peace with your money?* Start with one free app that appeals to you and use it for 30 days. [Get in touch](/contact) with your budget tool wins - I love hearing how people find their financial groove.
+*Ready to make peace with your money?* Start with one free app that appeals to you and use it for 30 days. [Get in touch](/contact/) with your budget tool wins - I love hearing how people find their financial groove.
 
 ---
 
-*Need more practical money advice? Check out our *[*books that make you financially smarter*](/books-make-you-financially-smarter)*, or explore *[*weekend side hustle tools*](/weekend-side-hustle-tools)*.*
+*Need more practical money advice? Check out our *[*books that make you financially smarter*](/books-make-you-financially-smarter/)*, or explore *[*weekend side hustle tools*](/weekend-side-hustle-tools/)*.*

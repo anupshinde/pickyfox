@@ -327,8 +327,8 @@ You're not responsible for managing everyone else's emotions about your boundari
 
 The people who matter will adjust. The people who don't... well, that's valuable information too.
 
-*Need support with a specific boundary situation?* [Get in touch](/contact) to talk through what might work for your circumstances - boundary-setting is highly personal, and sometimes you need to brainstorm strategies for your specific relationships and situations.
+*Need support with a specific boundary situation?* [Get in touch](/contact/) to talk through what might work for your circumstances - boundary-setting is highly personal, and sometimes you need to brainstorm strategies for your specific relationships and situations.
 
 ---
 
-*Ready to build on your boundary-setting skills? Check out our *[*stress management guide*](/stress-management-guide)* to reduce the overwhelm that makes boundaries harder to maintain, or explore *[*energy management guide*](/energy-management-guide)* to protect the energy that boundaries help preserve.*
+*Ready to build on your boundary-setting skills? Check out our *[*stress management guide*](/stress-management-guide/)* to reduce the overwhelm that makes boundaries harder to maintain, or explore *[*energy management guide*](/energy-management-guide/)* to protect the energy that boundaries help preserve.*

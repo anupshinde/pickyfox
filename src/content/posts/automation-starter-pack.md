@@ -375,8 +375,8 @@ Automation isn't about becoming a robot - it's about freeing yourself from robot
 
 Most importantly, remember that the goal is to make your life easier, not to create a complex system that requires constant maintenance. **Good automation should be invisible** - it just makes things work better without you having to think about it.
 
-*Ready to automate something but not sure where to start?* [Get in touch](/contact) to share what repetitive tasks are driving you crazy - sometimes talking through your workflow with someone else helps identify the best automation opportunities.
+*Ready to automate something but not sure where to start?* [Get in touch](/contact/) to share what repetitive tasks are driving you crazy - sometimes talking through your workflow with someone else helps identify the best automation opportunities.
 
 ---
 
-*Want to optimize your automated workflows further? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* to make the most of the time automation saves you, or explore *[*productivity systems*](/productivity-systems)* to build frameworks that work with your new automated processes.*
+*Want to optimize your automated workflows further? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* to make the most of the time automation saves you, or explore *[*productivity systems*](/productivity-systems/)* to build frameworks that work with your new automated processes.*

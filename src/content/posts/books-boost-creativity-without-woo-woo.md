@@ -334,8 +334,8 @@ No vision boards, meditation retreats, or spiritual awakening required.
 
 Your creative breakthrough is waiting in your systematic approach, not your emotional state.
 
-*What's your biggest creative challenge?* [Get in touch](/contact) to share about creative techniques that actually work - I'm collecting practical methods that produce results.
+*What's your biggest creative challenge?* [Get in touch](/contact/) to share about creative techniques that actually work - I'm collecting practical methods that produce results.
 
 ---
 
-*Ready to apply your new creative thinking? Check out our *[*problem-solving tools*](/problem-solving-tools)* or explore *[*innovation strategies*](/innovation-strategies)* to put your creativity to work on real challenges.*
+*Ready to apply your new creative thinking? Check out our *[*problem-solving tools*](/problem-solving-tools/)* or explore *[*innovation strategies*](/innovation-strategies/)* to put your creativity to work on real challenges.*

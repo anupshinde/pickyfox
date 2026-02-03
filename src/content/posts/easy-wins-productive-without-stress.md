@@ -348,8 +348,8 @@ Small progress feels better than overwhelming ambition.
 
 You just need to do a few things that make tomorrow-you grateful.
 
-*What's your favorite easy win?* [Get in touch](/contact) to share about productivity strategies that actually stick - I'm collecting low-stress approaches that create real momentum.
+*What's your favorite easy win?* [Get in touch](/contact/) to share about productivity strategies that actually stick - I'm collecting low-stress approaches that create real momentum.
 
 ---
 
-*Ready to build on your momentum? Check out our *[*energy management guide*](/energy-management-guide)* or explore *[*stress management strategies*](/stress-management-guide)* to make productivity feel even easier.*
+*Ready to build on your momentum? Check out our *[*energy management guide*](/energy-management-guide/)* or explore *[*stress management strategies*](/stress-management-guide/)* to make productivity feel even easier.*

@@ -337,8 +337,8 @@ Your phone's built-in editor handles most needs
 
 **Your needs are unique.** What works for productivity gurus might not work for your actual life.
 
-*Ready to declutter your digital life?* Start by auditing your most-used apps and identifying overlap. Pick one category to consolidate first, then [get in touch](/contact) with your before/after app count - I love seeing digital minimalism wins.
+*Ready to declutter your digital life?* Start by auditing your most-used apps and identifying overlap. Pick one category to consolidate first, then [get in touch](/contact/) with your before/after app count - I love seeing digital minimalism wins.
 
 ---
 
-*Want more digital organization tips? Check out our *[*digital minimalism starter pack*](/digital-minimalism-starter-pack-2025)* or explore *[*organization tools that actually work*](/free-organization-tools-that-work)*.*
+*Want more digital organization tips? Check out our *[*digital minimalism starter pack*](/digital-minimalism-starter-pack-2025/)* or explore *[*organization tools that actually work*](/free-organization-tools-that-work/)*.*

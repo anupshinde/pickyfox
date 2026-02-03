@@ -440,8 +440,8 @@ While others spend years and fortunes in classrooms, you'll be building real ski
 
 The best time to start learning data science was yesterday. The second best time is right now.
 
-*What's stopping you from starting your data science journey?* [Get in touch](/contact) to share - I love hearing about people's self-taught success stories and helping problem-solve the roadblocks.
+*What's stopping you from starting your data science journey?* [Get in touch](/contact/) to share - I love hearing about people's self-taught success stories and helping problem-solve the roadblocks.
 
 ---
 
-*Ready to accelerate your learning? Check out our *[*deep work strategies*](/deep-work-strategies)* or explore *[*productivity systems*](/productivity-systems)* to fast-track your transition.*
+*Ready to accelerate your learning? Check out our *[*deep work strategies*](/deep-work-strategies/)* or explore *[*productivity systems*](/productivity-systems/)* to fast-track your transition.*

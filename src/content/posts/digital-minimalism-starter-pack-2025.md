@@ -350,8 +350,8 @@ Also consider what positive technologies you want to add or optimize
 
 ---
 
-*Ready to reclaim your attention?* Start with removing all non-essential phone notifications today. [Get in touch](/contact) with your biggest digital minimalism challenge - I love helping people find their ideal technology balance.
+*Ready to reclaim your attention?* Start with removing all non-essential phone notifications today. [Get in touch](/contact/) with your biggest digital minimalism challenge - I love helping people find their ideal technology balance.
 
 ---
 
-*Want more intentional living strategies? Check out our guide to *[*life systems that save time*](/life-systems-save-50-hours)* or explore *[*stress management guide*](/stress-management-guide)* for managing overwhelm.*
+*Want more intentional living strategies? Check out our guide to *[*life systems that save time*](/life-systems-save-50-hours/)* or explore *[*stress management guide*](/stress-management-guide/)* for managing overwhelm.*

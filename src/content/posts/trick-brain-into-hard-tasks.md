@@ -270,8 +270,8 @@ Schedule hard tasks for when you typically have more mental energy
 
 **The best trick is the one you'll actually use.** Start with whichever resonates most and add others gradually.
 
-*Struggling with a specific hard task right now?* Try the two-minute start method today and [get in touch](/contact) with how it goes - I love hearing about people outsmarting their own procrastination.
+*Struggling with a specific hard task right now?* Try the two-minute start method today and [get in touch](/contact/) with how it goes - I love hearing about people outsmarting their own procrastination.
 
 ---
 
-*Want more productivity psychology? Check out our *[*small behaviors that compound into big results*](/small-behaviors-compound-results)* or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains)*.*
+*Want more productivity psychology? Check out our *[*small behaviors that compound into big results*](/small-behaviors-compound-results/)* or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)*.*

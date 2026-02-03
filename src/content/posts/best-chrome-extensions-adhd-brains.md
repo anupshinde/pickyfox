@@ -298,8 +298,8 @@ These extensions work WITH your natural patterns instead of trying to force you 
 
 The goal isn't to become neurotypical. It's to become a more effective version of your beautifully chaotic ADHD self.
 
-*Which extension saved your sanity?* [Get in touch](/contact) to share your ADHD browser wins - I'm always collecting tools that work for scattered brains like ours.
+*Which extension saved your sanity?* [Get in touch](/contact/) to share your ADHD browser wins - I'm always collecting tools that work for scattered brains like ours.
 
 ---
 
-*Ready to optimize more of your digital chaos? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* or learn about *[*automation starter pack*](/automation-starter-pack)* to keep building your productivity arsenal.*
+*Ready to optimize more of your digital chaos? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* or learn about *[*automation starter pack*](/automation-starter-pack/)* to keep building your productivity arsenal.*

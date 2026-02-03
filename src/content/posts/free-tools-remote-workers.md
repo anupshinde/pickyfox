@@ -316,8 +316,8 @@ The other 10% are people problems that no software can fix.
 
 Your remote work success depends more on systems than software.
 
-*What's your biggest remote work challenge?* [Get in touch](/contact) to share your remote work wins and struggles - I'm collecting what actually works for real remote workers.
+*What's your biggest remote work challenge?* [Get in touch](/contact/) to share your remote work wins and struggles - I'm collecting what actually works for real remote workers.
 
 ---
 
-*Ready to optimize your remote work further? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* or explore *[*productivity systems*](/productivity-systems)* to make your new tool stack even more effective.*
+*Ready to optimize your remote work further? Check out our *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* or explore *[*productivity systems*](/productivity-systems/)* to make your new tool stack even more effective.*

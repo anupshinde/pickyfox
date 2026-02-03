@@ -388,8 +388,8 @@ Which approach works better for your priorities and timeline?"
 
 Remember: You're not just doing client work. You're teaching clients how to work with service providers effectively. Do it well, and you'll create clients who are a joy to work with and who refer other great clients to you.
 
-*Struggling with a specific client situation?* [Reach out](/contact) to talk through strategies for your particular challenge - sometimes a fresh perspective helps you see solutions you couldn't spot from inside the situation.
+*Struggling with a specific client situation?* [Reach out](/contact/) to talk through strategies for your particular challenge - sometimes a fresh perspective helps you see solutions you couldn't spot from inside the situation.
 
 ---
 
-*Want to complement your improved client relationships? Check out our guide to *[*boundary setting strategies*](/boundary-setting-strategies)* for additional framework, or explore *[*stress management techniques*](/stress-management-guide)* to handle challenging client situations with more resilience.*
+*Want to complement your improved client relationships? Check out our guide to *[*boundary setting strategies*](/boundary-setting-strategies/)* for additional framework, or explore *[*stress management techniques*](/stress-management-guide/)* to handle challenging client situations with more resilience.*

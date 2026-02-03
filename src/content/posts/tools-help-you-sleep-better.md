@@ -302,8 +302,8 @@ The right combination of tools + environment + routine will get you sleeping lik
 
 **You deserve to sleep well. And you deserve solutions that actually work.**
 
-*What's your biggest sleep challenge?* [Get in touch](/contact) to share your sleep wins and struggles - I'm always collecting what actually works for real insomniacs.
+*What's your biggest sleep challenge?* [Get in touch](/contact/) to share your sleep wins and struggles - I'm always collecting what actually works for real insomniacs.
 
 ---
 
-*Ready to optimize more of your health? Check out our *[*energy management guide*](/energy-management-guide)* or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains)* to maximize your newly-rested state.*
+*Ready to optimize more of your health? Check out our *[*energy management guide*](/energy-management-guide/)* or explore *[*focus tools for scattered brains*](/focus-tools-scattered-brains/)* to maximize your newly-rested state.*
