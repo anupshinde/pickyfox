@@ -24,11 +24,14 @@ const twitter = {
 >
   <article class="mx-auto max-w-3xl py-12">
     <header class="space-y-3">
-      <h1 class="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">{data.title}</h1>
+      {data.tags?.length && (
+        <p class="text-sm font-semibold uppercase tracking-[0.08em] text-brand-500">{data.tags[0]}</p>
+      )}
+      <h1 class="text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">{data.title}</h1>
       <p class="text-sm text-slate-500">
         {new Date(data.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
       </p>
-      {data.excerpt && <p class="text-base leading-relaxed text-slate-600">{data.excerpt}</p>}
+      {data.excerpt && <p class="text-[20px] leading-[34px] text-slate-500">{data.excerpt}</p>}
     </header>
     {data.featureImage && (
       <figure class="my-8 space-y-2">
