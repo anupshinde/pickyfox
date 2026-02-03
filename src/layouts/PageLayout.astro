@@ -22,14 +22,25 @@ const twitter = {
   codeinjection_head={data.codeinjection_head}
   codeinjection_foot={data.codeinjection_foot}
 >
-  <article>
-    <h1>{data.title}</h1>
+  <article class="mx-auto max-w-3xl py-12">
+    <header class="space-y-3">
+      <h1 class="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">{data.title}</h1>
+      {data.excerpt && <p class="text-base leading-relaxed text-slate-600">{data.excerpt}</p>}
+    </header>
     {data.featureImage && (
-      <figure>
-        <img src={data.featureImage} alt={data.featureImageAlt || data.title} />
-        {data.featureImageCaption && <figcaption>{data.featureImageCaption}</figcaption>}
+      <figure class="my-8 space-y-2">
+        <img
+          class="w-full rounded-2xl border border-slate-200 shadow-sm"
+          src={data.featureImage}
+          alt={data.featureImageAlt || data.title}
+        />
+        {data.featureImageCaption && (
+          <figcaption class="text-sm text-slate-500">{data.featureImageCaption}</figcaption>
+        )}
       </figure>
     )}
-    <slot />
+    <div class="prose prose-slate max-w-none">
+      <slot />
+    </div>
   </article>
 </BaseLayout>

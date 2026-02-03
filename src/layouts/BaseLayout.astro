@@ -24,24 +24,29 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
     {twitter?.image && <meta name="twitter:image" content={twitter.image} />}
     {codeinjection_head && <Fragment set:html={codeinjection_head} />}
   </head>
-  <body>
-    <header class="site-header">
-      <div class="container">
-        <h1>{SITE.name}</h1>
-        <p class="meta">{SITE.description}</p>
-        <nav>
-          <a href="/">Home</a>
-          <a href="/about/">About</a>
-          <a href="/contact/">Contact</a>
-          <a href="/privacy-policy/">Privacy Policy</a>
+  <body class="min-h-screen bg-white text-slate-900 antialiased">
+    <header class="border-b border-slate-200 bg-white">
+      <div class="mx-auto flex w-full max-w-5xl flex-col gap-4 px-4 py-6 sm:flex-row sm:items-center sm:justify-between">
+        <a class="text-2xl font-semibold tracking-tight text-slate-900" href="/">{SITE.name}</a>
+        <nav class="flex flex-wrap items-center gap-6 text-sm font-medium text-slate-700 sm:flex-nowrap">
+          <a class="transition hover:text-slate-900" href="/">Home</a>
+          <a class="transition hover:text-slate-900" href="/about/">About</a>
+          <a class="transition hover:text-slate-900" href="/contact/">Contact</a>
         </nav>
       </div>
     </header>
-    <main class="container">
+    <main class="mx-auto w-full max-w-5xl px-4">
       <slot />
     </main>
-    <footer class="site-footer">
-      <div class="container">
+    <footer class="mt-16 bg-slate-900 text-slate-200">
+      <div class="border-y border-slate-700/60">
+        <div class="mx-auto flex w-full max-w-5xl flex-wrap items-center justify-center gap-8 px-4 py-6 text-sm font-medium">
+          <a class="transition hover:text-white" href="/affiliate-disclosure/">Affiliate Disclosure</a>
+          <a class="transition hover:text-white" href="/privacy-policy/">Privacy Policy</a>
+          <a class="transition hover:text-white" href="/terms-of-use/">Terms of Use</a>
+        </div>
+      </div>
+      <div class="mx-auto w-full max-w-5xl px-4 py-6 text-xs text-slate-400">
         <p>© {new Date().getFullYear()} {SITE.name}. All rights reserved.</p>
       </div>
     </footer>

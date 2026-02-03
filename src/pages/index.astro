@@ -8,19 +8,29 @@ const posts = (await getCollection('posts'))
   .slice(0, 12);
 ---
 <BaseLayout title={SITE.name} description={SITE.description}>
-  <section class="hero">
-    <h2>Latest from PickyFox</h2>
-    <p class="meta">Fresh picks, reviews, and curated finds.</p>
+  <section class="py-10">
+    <h2 class="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">Latest from PickyFox</h2>
+    <p class="mt-2 max-w-2xl text-base text-slate-600">Fresh picks, reviews, and curated finds.</p>
   </section>
-  <section class="grid">
+  <section class="grid gap-6 pb-14 sm:grid-cols-2 lg:grid-cols-3">
     {posts.map((post) => (
-      <article class="card">
+      <article class="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
         {post.data.featureImage && (
-          <img src={post.data.featureImage} alt={post.data.featureImageAlt || post.data.title} />
+          <img
+            class="h-48 w-full object-cover"
+            src={post.data.featureImage}
+            alt={post.data.featureImageAlt || post.data.title}
+          />
         )}
-        <h3><a href={`/${post.slug}/`}>{post.data.title}</a></h3>
-        <p class="meta">{new Date(post.data.date || '').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}</p>
-        {post.data.excerpt && <p>{post.data.excerpt}</p>}
+        <div class="space-y-3 p-5">
+          <h3 class="text-lg font-semibold text-slate-900">
+            <a class="transition hover:text-slate-700" href={`/${post.slug}/`}>{post.data.title}</a>
+          </h3>
+          <p class="text-xs uppercase tracking-[0.2em] text-slate-500">
+            {new Date(post.data.date || '').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+          </p>
+          {post.data.excerpt && <p class="text-sm leading-relaxed text-slate-600">{post.data.excerpt}</p>}
+        </div>
       </article>
     ))}
   </section>
