@@ -27,8 +27,25 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
   <body class="min-h-screen bg-white font-sans text-slate-900 antialiased">
     <header class="border-b border-slate-200 bg-white">
       <div class="mx-auto flex w-full max-w-5xl flex-col gap-4 px-4 py-6 sm:flex-row sm:items-center sm:justify-between">
-        <a class="text-2xl font-extrabold tracking-tight text-slate-900" href="/">{SITE.name}</a>
-        <nav class="flex flex-wrap items-center gap-6 text-base font-medium text-slate-700 sm:flex-nowrap">
+        <div class="flex items-center justify-between">
+          <a class="text-2xl font-extrabold tracking-tight text-slate-900" href="/">{SITE.name}</a>
+          <button
+            class="inline-flex items-center justify-center rounded-full border border-slate-200 p-2 text-slate-700 transition hover:bg-slate-50 sm:hidden"
+            type="button"
+            aria-controls="site-nav"
+            aria-expanded="false"
+            id="nav-toggle"
+          >
+            <span class="sr-only">Toggle menu</span>
+            <svg aria-hidden="true" class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+            </svg>
+          </button>
+        </div>
+        <nav
+          id="site-nav"
+          class="hidden w-full flex flex-col items-start gap-3 pt-2 text-lg font-semibold text-slate-800 sm:w-auto sm:flex-row sm:items-center sm:justify-end sm:gap-6 sm:pt-0 sm:text-base sm:font-medium sm:text-slate-700"
+        >
           <a class="transition hover:text-slate-900" href="/">Home</a>
           <a class="transition hover:text-slate-900" href="/about/">About</a>
           <a class="transition hover:text-slate-900" href="/contact/">Contact</a>
@@ -51,5 +68,15 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
       </div>
     </footer>
     {codeinjection_foot && <Fragment set:html={codeinjection_foot} />}
+    <script>
+      const toggle = document.getElementById('nav-toggle');
+      const nav = document.getElementById('site-nav');
+      if (toggle && nav) {
+        toggle.addEventListener('click', () => {
+          const isHidden = nav.classList.toggle('hidden');
+          toggle.setAttribute('aria-expanded', String(!isHidden));
+        });
+      }
+    </script>
   </body>
 </html>
