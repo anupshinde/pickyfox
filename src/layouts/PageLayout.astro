@@ -1,0 +1,35 @@
+---
+import BaseLayout from './BaseLayout.astro';
+const { entry } = Astro.props;
+const data = entry.data;
+const og = {
+  title: data.ogTitle || data.metaTitle || data.title,
+  description: data.ogDescription || data.metaDescription || data.excerpt,
+  image: data.ogImage || data.featureImage
+};
+const twitter = {
+  title: data.twitterTitle || data.metaTitle || data.title,
+  description: data.twitterDescription || data.metaDescription || data.excerpt,
+  image: data.twitterImage || data.featureImage
+};
+---
+<BaseLayout
+  title={data.metaTitle || data.title}
+  description={data.metaDescription || data.excerpt}
+  canonicalUrl={data.canonicalUrl}
+  og={og}
+  twitter={twitter}
+  codeinjection_head={data.codeinjection_head}
+  codeinjection_foot={data.codeinjection_foot}
+>
+  <article>
+    <h1>{data.title}</h1>
+    {data.featureImage && (
+      <figure>
+        <img src={data.featureImage} alt={data.featureImageAlt || data.title} />
+        {data.featureImageCaption && <figcaption>{data.featureImageCaption}</figcaption>}
+      </figure>
+    )}
+    <slot />
+  </article>
+</BaseLayout>

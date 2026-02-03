@@ -1,0 +1,50 @@
+---
+import '../styles/global.css';
+import { SITE } from '../consts';
+const { title, description, canonicalUrl, og, twitter, codeinjection_head, codeinjection_foot } = Astro.props;
+const pageTitle = title ? `${title} | ${SITE.name}` : SITE.name;
+const pageDescription = description || SITE.description;
+const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ? Astro.url.pathname : Astro.url.pathname + '/');
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={pageDescription} />
+    <link rel="canonical" href={canonical} />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={og?.title || pageTitle} />
+    <meta property="og:description" content={og?.description || pageDescription} />
+    {og?.image && <meta property="og:image" content={og.image} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={twitter?.title || pageTitle} />
+    <meta name="twitter:description" content={twitter?.description || pageDescription} />
+    {twitter?.image && <meta name="twitter:image" content={twitter.image} />}
+    {codeinjection_head && <Fragment set:html={codeinjection_head} />}
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1>{SITE.name}</h1>
+        <p class="meta">{SITE.description}</p>
+        <nav>
+          <a href="/">Home</a>
+          <a href="/about/">About</a>
+          <a href="/contact/">Contact</a>
+          <a href="/privacy-policy/">Privacy Policy</a>
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        <p>© {new Date().getFullYear()} {SITE.name}. All rights reserved.</p>
+      </div>
+    </footer>
+    {codeinjection_foot && <Fragment set:html={codeinjection_foot} />}
+  </body>
+</html>

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Astro
+.astro/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+
+# Env
+.env
+.env.*
+
+# Editor
+.vscode/
+.idea/
+
+# Misc
+*.log
+__pycache__/
+scripts/
