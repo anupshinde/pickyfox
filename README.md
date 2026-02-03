@@ -41,4 +41,3 @@ npm run preview
 
 ## Notes
 - Canonical URLs are generated automatically from the page URL in `BaseLayout.astro`.
-- If you need to re-import Ghost content, use `scripts/ghost_import.py` and then review Markdown output.

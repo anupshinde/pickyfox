@@ -27,4 +27,4 @@ pnpm-debug.log*
 # Misc
 *.log
 __pycache__/
-scripts/
+*.pyc
