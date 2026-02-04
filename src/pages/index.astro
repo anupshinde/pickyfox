@@ -1,19 +1,64 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ShowMoreLink from '../components/ShowMoreLink.astro';
 import { SITE } from '../consts';
+import { TAG_TITLE_BY_SLUG, type TagSlug } from '../config/tagTaxonomy';
 
-const posts = (await getCollection('posts'))
-  .sort((a, b) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime())
-  .slice(0, 12);
+const allPosts = (await getCollection('posts')).sort(
+  (a, b) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime()
+);
+
+const MAIN_TAGS: TagSlug[] = ['productivity', 'career-work', 'business-entrepreneurship'];
+const SECONDARY_TAGS: TagSlug[] = ['health-wellness', 'content-creativity', 'personal-development'];
+const LATEST_COUNT = 6;
+const MAIN_SECTION_POST_COUNT = 7;
+const SECONDARY_SECTION_POST_COUNT = 5;
+
+const formatDate = (value: string | undefined) =>
+  new Date(value || '').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const usedPostSlugs = new Set<string>();
+
+const latestPosts = allPosts.slice(0, LATEST_COUNT);
+for (const post of latestPosts) {
+  usedPostSlugs.add(post.slug);
+}
+
+const pickUniquePostsForTag = (tagSlug: TagSlug, count: number) => {
+  const selected = [];
+  for (const post of allPosts) {
+    if (selected.length >= count) break;
+    if (usedPostSlugs.has(post.slug)) continue;
+    if (!post.data.tags?.includes(tagSlug)) continue;
+    selected.push(post);
+    usedPostSlugs.add(post.slug);
+  }
+  return selected;
+};
+
+const mainSections = MAIN_TAGS.map((tagSlug) => {
+  const posts = pickUniquePostsForTag(tagSlug, MAIN_SECTION_POST_COUNT);
+  return {
+    tagSlug,
+    title: TAG_TITLE_BY_SLUG[tagSlug],
+    lead: posts[0],
+    more: posts.slice(1)
+  };
+});
+
+const secondarySections = SECONDARY_TAGS.map((tagSlug) => ({
+  tagSlug,
+  title: TAG_TITLE_BY_SLUG[tagSlug],
+  posts: pickUniquePostsForTag(tagSlug, SECONDARY_SECTION_POST_COUNT)
+}));
 ---
 <BaseLayout title={SITE.name} description={SITE.description}>
   <section class="py-10">
-    <h2 class="text-2xl font-semibold tracking-tight text-slate-900 sm:text-3xl">Latest from PickyFox</h2>
-    <p class="mt-2 max-w-2xl text-base text-slate-600">Fresh picks, reviews, and curated finds.</p>
+    <h2 class="text-2xl font-extrabold uppercase tracking-tight text-slate-900">Latest</h2>
   </section>
-  <section class="grid gap-6 pb-14 sm:grid-cols-2 lg:grid-cols-3">
-    {posts.map((post) => (
+  <section class="grid gap-6 pb-12 sm:grid-cols-2 lg:grid-cols-3">
+    {latestPosts.map((post) => (
       <article class="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
         {post.data.featureImage && (
           <img
@@ -26,12 +71,102 @@ const posts = (await getCollection('posts'))
           <h3 class="text-lg font-semibold text-slate-900">
             <a class="transition hover:text-slate-700" href={`/${post.slug}/`}>{post.data.title}</a>
           </h3>
-          <p class="text-xs uppercase tracking-[0.2em] text-slate-500">
-            {new Date(post.data.date || '').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+          <p class="text-xs uppercase tracking-[0.08em] text-slate-500">
+            {formatDate(post.data.date)}
           </p>
           {post.data.excerpt && <p class="text-sm leading-relaxed text-slate-600">{post.data.excerpt}</p>}
         </div>
       </article>
     ))}
+  </section>
+
+  {mainSections.map((section) => (
+    <section class="border-t border-slate-200 py-12">
+      <div class="mb-7 flex items-center justify-between gap-4">
+        <h2 class="text-2xl font-extrabold uppercase tracking-tight text-slate-900">{section.title}</h2>
+        <ShowMoreLink
+          href={`/tag/${section.tagSlug}/`}
+          label="Show more"
+          class="text-sm font-semibold text-slate-500 transition hover:text-slate-800"
+        />
+      </div>
+
+      {section.lead && (
+        <article class="grid gap-6 border-b border-slate-200 pb-8 lg:grid-cols-[1.2fr,1fr]">
+          <a class="overflow-hidden rounded-lg bg-slate-100" href={`/${section.lead.slug}/`}>
+            {section.lead.data.featureImage ? (
+              <img
+                class="h-full max-h-[430px] w-full object-cover"
+                src={section.lead.data.featureImage}
+                alt={section.lead.data.featureImageAlt || section.lead.data.title}
+              />
+            ) : (
+              <div class="flex h-[280px] items-center justify-center text-sm text-slate-400">No image</div>
+            )}
+          </a>
+          <div class="space-y-4">
+            <h3 class="text-3xl font-extrabold leading-tight tracking-tight text-slate-900">
+              <a class="transition hover:text-slate-700" href={`/${section.lead.slug}/`}>{section.lead.data.title}</a>
+            </h3>
+            {section.lead.data.excerpt && (
+              <p class="text-lg leading-relaxed text-slate-700">{section.lead.data.excerpt}</p>
+            )}
+            <p class="text-xs uppercase tracking-[0.08em] text-slate-500">
+              {SITE.name} • {formatDate(section.lead.data.date)}
+            </p>
+          </div>
+        </article>
+      )}
+
+      {section.more.length > 0 && (
+        <div class="grid gap-6 pt-8 md:grid-cols-2">
+          {section.more.map((post) => (
+            <article class="flex items-start gap-4">
+              {post.data.featureImage && (
+                <a class="h-20 w-32 shrink-0 overflow-hidden rounded-md bg-slate-100" href={`/${post.slug}/`}>
+                  <img
+                    class="h-full w-full object-cover"
+                    src={post.data.featureImage}
+                    alt={post.data.featureImageAlt || post.data.title}
+                  />
+                </a>
+              )}
+              <div class="space-y-2">
+                <h3 class="text-2xl font-semibold leading-tight text-slate-900 sm:text-3xl md:text-2xl">
+                  <a class="transition hover:text-slate-700" href={`/${post.slug}/`}>{post.data.title}</a>
+                </h3>
+                <p class="text-xs uppercase tracking-[0.08em] text-slate-500">
+                  {SITE.name} • {formatDate(post.data.date)}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+      )}
+    </section>
+  ))}
+
+  <section class="border-t border-slate-200 py-12">
+    <div class="grid gap-10 lg:grid-cols-3">
+      {secondarySections.map((section) => (
+        <section>
+          <div class="mb-5 flex items-center justify-between border-b border-slate-200 pb-4">
+            <h2 class="text-xl font-extrabold tracking-tight text-slate-900">{section.title}</h2>
+            <ShowMoreLink
+              href={`/tag/${section.tagSlug}/`}
+              label="More"
+              class="text-sm font-semibold text-slate-400 transition hover:text-slate-700"
+            />
+          </div>
+          <div class="space-y-4">
+            {section.posts.map((post) => (
+              <h3 class="text-base leading-relaxed text-slate-800 sm:text-lg lg:text-base">
+                <a class="transition hover:text-slate-600" href={`/${post.slug}/`}>{post.data.title}</a>
+              </h3>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
   </section>
 </BaseLayout>
