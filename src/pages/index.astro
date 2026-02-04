@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PostGrid from '../components/PostGrid.astro';
 import ShowMoreLink from '../components/ShowMoreLink.astro';
 import { SITE } from '../consts';
 import { TAG_TITLE_BY_SLUG, type TagSlug } from '../config/tagTaxonomy';
@@ -89,31 +90,15 @@ const secondarySections = SECONDARY_TAGS.map((tagSlug) => ({
 }));
 ---
 <BaseLayout title={SITE.name} description={SITE.description}>
-  <section class="py-10">
+  <section class="flex items-center justify-between gap-4 py-10">
     <h2 class="text-2xl font-extrabold uppercase tracking-tight text-slate-900">Latest</h2>
+    <ShowMoreLink
+      href="/latest/"
+      label="Show more"
+      class="text-sm font-semibold text-slate-500 transition hover:text-slate-800"
+    />
   </section>
-  <section class="grid gap-6 pb-12 sm:grid-cols-2 lg:grid-cols-3">
-    {latestPosts.map((post) => (
-      <article class="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-        {post.data.featureImage && (
-          <img
-            class="h-48 w-full object-cover"
-            src={post.data.featureImage}
-            alt={post.data.featureImageAlt || post.data.title}
-          />
-        )}
-        <div class="space-y-3 p-5">
-          <h3 class="text-lg font-semibold text-slate-900">
-            <a class="transition hover:text-slate-700" href={`/${post.slug}/`}>{post.data.title}</a>
-          </h3>
-          <p class="text-xs uppercase tracking-[0.08em] text-slate-500">
-            {formatDate(post.data.date)}
-          </p>
-          {post.data.excerpt && <p class="text-sm leading-relaxed text-slate-600">{post.data.excerpt}</p>}
-        </div>
-      </article>
-    ))}
-  </section>
+  <PostGrid posts={latestPosts} class="grid gap-6 pb-12 sm:grid-cols-2 lg:grid-cols-3" />
 
   {mainSections.map((section) => (
     <section class="border-t border-slate-200 py-12">

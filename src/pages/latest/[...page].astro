@@ -1,0 +1,30 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PaginationNav from '../../components/PaginationNav.astro';
+import PostGrid from '../../components/PostGrid.astro';
+import { SITE } from '../../consts';
+
+export async function getStaticPaths({ paginate }) {
+  const pageSize = 12;
+  const posts = (await getCollection('posts')).sort(
+    (a, b) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime()
+  );
+
+  return paginate(posts, { pageSize });
+}
+
+const page = Astro.props.page as {
+  data: CollectionEntry<'posts'>[];
+  currentPage: number;
+  lastPage: number;
+  url: { current: string; prev?: string; next?: string };
+};
+---
+<BaseLayout title="Latest" description={`Browse all posts on ${SITE.name}.`}>
+  <section class="py-10">
+    <h1 class="text-3xl font-extrabold uppercase tracking-tight text-slate-900 sm:text-4xl">Latest</h1>
+  </section>
+  <PostGrid posts={page.data} class="grid gap-6 pb-6 sm:grid-cols-2 lg:grid-cols-3" />
+  <PaginationNav page={page} />
+</BaseLayout>

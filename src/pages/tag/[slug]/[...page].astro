@@ -1,0 +1,55 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PaginationNav from '../../../components/PaginationNav.astro';
+import PostGrid from '../../../components/PostGrid.astro';
+import { SITE } from '../../../consts';
+import { TAG_DEFINITIONS } from '../../../config/tagTaxonomy';
+
+type TagPageProps = {
+  tagTitle: string;
+};
+
+export async function getStaticPaths({ paginate }) {
+  const pageSize = 12;
+  const allPosts = (await getCollection('posts')).sort(
+    (a, b) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime()
+  );
+
+  return TAG_DEFINITIONS.flatMap((tag) => {
+    const taggedPosts = allPosts.filter((post) => post.data.tags?.includes(tag.slug));
+    return paginate(taggedPosts, {
+      pageSize,
+      params: { slug: tag.slug },
+      props: {
+        tagTitle: tag.title
+      }
+    });
+  });
+}
+
+const { tagTitle } = Astro.props as TagPageProps;
+const page = Astro.props.page as {
+  data: CollectionEntry<'posts'>[];
+  currentPage: number;
+  lastPage: number;
+  url: { current: string; prev?: string; next?: string };
+};
+---
+<BaseLayout title={`${tagTitle}`} description={`Browse ${tagTitle} posts on ${SITE.name}.`}>
+  <section class="py-10">
+    <p class="text-sm font-semibold uppercase tracking-[0.08em] text-brand-500">Tag</p>
+    <h1 class="mt-2 text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">{tagTitle}</h1>
+  </section>
+
+  {page.data.length > 0 ? (
+    <>
+      <PostGrid posts={page.data} class="grid gap-6 pb-6 sm:grid-cols-2 lg:grid-cols-3" />
+      <PaginationNav page={page} />
+    </>
+  ) : (
+    <section class="pb-14">
+      <p class="text-slate-600">No posts in this tag yet.</p>
+    </section>
+  )}
+</BaseLayout>
