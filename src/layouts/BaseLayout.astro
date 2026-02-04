@@ -1,7 +1,8 @@
 ---
 import '../styles/global.css';
+import ThirdPartyScripts from '../components/ThirdPartyScripts.astro';
 import { SITE } from '../consts';
-const { title, description, canonicalUrl, og, twitter, codeinjection_head, codeinjection_foot } = Astro.props;
+const { title, description, canonicalUrl, og, twitter } = Astro.props;
 const pageTitle = title ? `${title} | ${SITE.name}` : SITE.name;
 const pageDescription = description || SITE.description;
 const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ? Astro.url.pathname : Astro.url.pathname + '/');
@@ -22,7 +23,7 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
     <meta name="twitter:title" content={twitter?.title || pageTitle} />
     <meta name="twitter:description" content={twitter?.description || pageDescription} />
     {twitter?.image && <meta name="twitter:image" content={twitter.image} />}
-    {codeinjection_head && <Fragment set:html={codeinjection_head} />}
+    <ThirdPartyScripts placement="head" />
   </head>
   <body class="min-h-screen bg-white font-sans text-slate-900 antialiased">
     <header class="border-b border-slate-200 bg-white">
@@ -67,7 +68,7 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
         <p>© {new Date().getFullYear()} {SITE.name}. All rights reserved.</p>
       </div>
     </footer>
-    {codeinjection_foot && <Fragment set:html={codeinjection_foot} />}
+    <ThirdPartyScripts placement="body" />
     <script>
       const toggle = document.getElementById('nav-toggle');
       const nav = document.getElementById('site-nav');

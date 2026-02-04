@@ -19,9 +19,7 @@ const baseSchema = z.object({
   ogImage: z.string().optional(),
   twitterTitle: z.string().optional(),
   twitterDescription: z.string().optional(),
-  twitterImage: z.string().optional(),
-  codeinjection_head: z.string().optional(),
-  codeinjection_foot: z.string().optional()
+  twitterImage: z.string().optional()
 });
 
 const posts = defineCollection({

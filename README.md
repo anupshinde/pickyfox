@@ -35,6 +35,11 @@ npm run preview
 - Routes: `src/pages`
 - Featured images: `public/images/featured`
 
+## Third-Party Scripts
+- Add third-party analytics/ad scripts in `src/config/thirdPartyScripts.ts`.
+- Use `placement: 'head'` (default) or `placement: 'body'` for each snippet.
+- Scripts load only in production by default. Set `enabledInDev: true` in `src/config/thirdPartyScripts.ts` if you want to test locally.
+
 ## Deploy (Cloudflare Pages)
 - Build command: `npm run build`
 - Build output: `dist`
