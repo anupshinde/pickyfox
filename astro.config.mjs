@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import tailwind from '@astrojs/tailwind';
+import sitemap from '@astrojs/sitemap';
 
 const SITE_URL = 'https://www.pickyfox.com';
 const siteHostname = new URL(SITE_URL).hostname;
@@ -56,7 +57,7 @@ export default defineConfig({
   markdown: {
     rehypePlugins: [externalLinksInNewTab]
   },
-  integrations: [tailwind()],
+  integrations: [tailwind(), sitemap()],
   server: {
     host: '0.0.0.0'
   }
