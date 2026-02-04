@@ -44,7 +44,7 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
         </div>
         <nav
           id="site-nav"
-          class="hidden w-full flex flex-col items-start gap-3 pt-2 text-lg font-semibold text-slate-800 sm:w-auto sm:flex-row sm:items-center sm:justify-end sm:gap-6 sm:pt-0 sm:text-base sm:font-medium sm:text-slate-700"
+          class="hidden w-full flex-col items-start gap-3 pt-2 text-lg font-semibold text-slate-800 sm:flex sm:w-auto sm:flex-row sm:items-center sm:justify-end sm:gap-6 sm:pt-0 sm:text-base sm:font-medium sm:text-slate-700"
         >
           <a class="transition hover:text-slate-900" href="/">Home</a>
           <a class="transition hover:text-slate-900" href="/about/">About</a>
@@ -57,7 +57,7 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
     </main>
     <footer class="mt-16 bg-slate-900 text-slate-200">
       <div class="border-y border-slate-700/60">
-        <div class="mx-auto flex w-full max-w-5xl flex-wrap items-center justify-center gap-8 px-4 py-6 text-sm font-medium">
+        <div class="mx-auto flex w-full max-w-5xl flex-col items-center justify-center gap-3 px-4 py-6 text-sm font-medium sm:flex-row sm:gap-8">
           <a class="transition hover:text-white" href="/affiliate-disclosure/">Affiliate Disclosure</a>
           <a class="transition hover:text-white" href="/privacy-policy/">Privacy Policy</a>
           <a class="transition hover:text-white" href="/terms-of-use/">Terms of Use</a>
@@ -73,8 +73,10 @@ const canonical = canonicalUrl || SITE.url + (Astro.url.pathname.endsWith('/') ?
       const nav = document.getElementById('site-nav');
       if (toggle && nav) {
         toggle.addEventListener('click', () => {
-          const isHidden = nav.classList.toggle('hidden');
-          toggle.setAttribute('aria-expanded', String(!isHidden));
+          const willShow = nav.classList.contains('hidden');
+          nav.classList.toggle('hidden', !willShow);
+          nav.classList.toggle('flex', willShow);
+          toggle.setAttribute('aria-expanded', String(willShow));
         });
       }
     </script>
