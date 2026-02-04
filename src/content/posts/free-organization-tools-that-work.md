@@ -6,8 +6,8 @@ updated: "2025-08-16T18:09:32.000Z"
 excerpt: "Drowning in digital chaos? These battle-tested free tools will organize your life without breaking the bank or your brain."
 featured: false
 tags:
-  - "Productivity"
-  - "Tools & Resources"
+  - "productivity"
+  - "tools-resources"
 ---
 
 Drowning in digital chaos and can't afford another subscription?

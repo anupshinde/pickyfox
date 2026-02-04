@@ -6,10 +6,10 @@ updated: "2025-08-17T05:26:56.000Z"
 excerpt: "Paralyzed by choices and terrified of picking wrong? Decision-making strategies that cut through analysis paralysis - battle-tested by a recovering overthinker."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Life Skills"
-  - "Personal Development"
-  - "Productivity"
+  - "health-wellness"
+  - "life-skills"
+  - "personal-development"
+  - "productivity"
 ---
 
 Paralyzed by choices and terrified of picking wrong?

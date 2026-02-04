@@ -1,4 +1,9 @@
 import { defineCollection, z } from 'astro:content';
+import { TAG_SLUG_SET, TAG_SLUGS } from '../config/tagTaxonomy';
+
+const tagSlugSchema = z.string().refine((value) => TAG_SLUG_SET.has(value), {
+  message: `Invalid tag slug. Use one of: ${TAG_SLUGS.join(', ')}`
+});
 
 const baseSchema = z.object({
   title: z.string(),
@@ -11,7 +16,7 @@ const baseSchema = z.object({
   featureImageAlt: z.string().optional(),
   featureImageCaption: z.string().optional(),
   featured: z.boolean().optional(),
-  tags: z.array(z.string()).optional(),
+  tags: z.array(tagSlugSchema).optional(),
   metaTitle: z.string().optional(),
   metaDescription: z.string().optional(),
   ogTitle: z.string().optional(),

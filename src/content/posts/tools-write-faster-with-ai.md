@@ -6,10 +6,10 @@ updated: "2025-08-16T18:51:10.000Z"
 excerpt: "Staring at blank pages while everyone else claims AI writes their content? Real writing tools that speed up the process - battle-tested by someone who writes 20,000+ words weekly."
 featured: false
 tags:
-  - "Artificial Intelligence"
-  - "Content & Creativity"
-  - "Productivity"
-  - "Technology"
+  - "artificial-intelligence"
+  - "content-creativity"
+  - "productivity"
+  - "technology"
 ---
 
 Staring at blank pages while everyone else claims AI writes their content?

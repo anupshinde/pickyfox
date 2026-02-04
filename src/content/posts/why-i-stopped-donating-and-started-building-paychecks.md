@@ -8,10 +8,10 @@ featureImage: "/images/featured/post-why-i-stopped-donating-and-started-building
 featureImageCaption: "Photo by Katt Yukawa / Unsplash"
 featured: false
 tags:
-  - "Timeless Lessons"
-  - "Money & Finance"
-  - "Relationships & Family"
-  - "Life Skills"
+  - "timeless-lessons"
+  - "money-finance"
+  - "relationships-family"
+  - "life-skills"
 ---
 
 I used to think donating money was the pinnacle of generosity. It felt clean and immediate: wire funds, feel good, move on. However, the same people continued to show up with the same problems. My money was stopping the bleeding, not healing the wound.

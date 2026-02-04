@@ -6,8 +6,8 @@ updated: "2025-08-16T18:34:42.000Z"
 excerpt: "Lying awake at 3 am, wondering why your brain won't shut up? Sleep hacks from a recovering insomniac who tried everything - no 'just relax' BS, real solutions for real insomniacs."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Productivity"
+  - "health-wellness"
+  - "productivity"
 ---
 
 Lying awake at 3 am, wondering why your brain won't shut up?

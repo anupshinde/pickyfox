@@ -8,8 +8,8 @@ featureImage: "/images/featured/post-small-behaviors-compound-results.jpg"
 featureImageAlt: "Tiny Habits Massive Impact"
 featured: false
 tags:
-  - "Personal Development"
-  - "Productivity"
+  - "personal-development"
+  - "productivity"
 ---
 
 Tired of dramatic life changes that last about as long as your New Year's resolutions?

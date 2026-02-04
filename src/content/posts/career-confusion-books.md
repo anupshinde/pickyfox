@@ -6,10 +6,10 @@ updated: "2025-08-17T05:22:50.000Z"
 excerpt: "Stuck in career limbo and tired of advice that doesn't match reality? These books offer genuine guidance for navigating professional uncertainty."
 featured: false
 tags:
-  - "Career & Work"
-  - "Content & Creativity"
-  - "Personal Development"
-  - "Books"
+  - "career-work"
+  - "content-creativity"
+  - "personal-development"
+  - "books"
 ---
 
 Stuck in career limbo while everyone else seems to have it figured out?

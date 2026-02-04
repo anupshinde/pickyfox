@@ -6,8 +6,8 @@ updated: "2025-08-17T05:33:11.000Z"
 excerpt: "Running on fumes but can't afford to stop? Micro-recovery strategies that work within your current reality - battle-tested by someone who recovered from burnout without quitting."
 featured: false
 tags:
-  - "Career & Work"
-  - "Health & Wellness"
+  - "career-work"
+  - "health-wellness"
 ---
 
 Running on fumes but can't afford to stop?

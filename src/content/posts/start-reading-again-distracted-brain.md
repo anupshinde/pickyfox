@@ -6,11 +6,11 @@ updated: "2025-08-16T18:43:51.000Z"
 excerpt: "Can't focus on a book for longer than 5 minutes? Here's how to rebuild your reading habit when your attention span has gone to hell."
 featured: false
 tags:
-  - "Learning"
-  - "Health & Wellness"
-  - "Personal Development"
-  - "Productivity"
-  - "Books"
+  - "learning"
+  - "health-wellness"
+  - "personal-development"
+  - "productivity"
+  - "books"
 ---
 
 Can't focus on a book for longer than 5 minutes without checking your phone?

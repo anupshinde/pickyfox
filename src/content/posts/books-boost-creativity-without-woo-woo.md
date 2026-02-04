@@ -6,10 +6,10 @@ updated: "2025-08-16T18:45:55.000Z"
 excerpt: "Creative block got you stuck in beige thinking? Books that unlock creative thinking without spiritual nonsense - battle-tested by someone allergic to manifestation mantras."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Content & Creativity"
-  - "Personal Development"
-  - "Books"
+  - "business-entrepreneurship"
+  - "content-creativity"
+  - "personal-development"
+  - "books"
 ---
 
 Creative block got you stuck in beige thinking?

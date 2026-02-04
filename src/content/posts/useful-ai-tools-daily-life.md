@@ -6,9 +6,9 @@ updated: "2025-08-16T18:00:57.000Z"
 excerpt: "Tired of AI hype that doesn't deliver? These 5 tools actually save me 10+ hours weekly without requiring a computer science degree."
 featured: false
 tags:
-  - "Artificial Intelligence"
-  - "Productivity"
-  - "Technology"
+  - "artificial-intelligence"
+  - "productivity"
+  - "technology"
 ---
 
 Tired of AI hype that doesn't deliver real results?

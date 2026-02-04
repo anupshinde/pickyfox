@@ -8,8 +8,8 @@ featureImage: "/images/featured/post-productivity-systems.jpg"
 featureImageAlt: "Productivity Systems Not Working."
 featured: false
 tags:
-  - "Career & Work"
-  - "Productivity"
+  - "career-work"
+  - "productivity"
 ---
 
 Let me paint a familiar picture: You've tried Getting Things Done, bullet journaling, time-blocking, the Pomodoro technique, and about seventeen different apps. For about two weeks, each system felt like THE answer. Then life got busy, you fell behind on maintenance, and now you're back to sticky notes and panic.

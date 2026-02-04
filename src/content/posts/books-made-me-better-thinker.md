@@ -6,11 +6,11 @@ updated: "2025-08-17T05:20:08.000Z"
 excerpt: "Drowning in content but your thinking hasn't evolved since college? Books that actually rewired my brain - no intellectual flexing, just mind-expanding reads that changed how I think."
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Learning"
-  - "Personal Development"
-  - "Productivity"
-  - "Books"
+  - "content-creativity"
+  - "learning"
+  - "personal-development"
+  - "productivity"
+  - "books"
 ---
 
 Drowning in content but your thinking hasn't evolved since college?

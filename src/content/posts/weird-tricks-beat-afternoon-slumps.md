@@ -6,9 +6,9 @@ updated: "2025-08-17T05:34:51.000Z"
 excerpt: "That 3pm wall just sucker-punched you, didn't it? Here are battle-tested weird tricks that actually work - curated by someone who's face-planted into afternoon fatigue 1000+ times."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Life Skills"
-  - "Productivity"
+  - "health-wellness"
+  - "life-skills"
+  - "productivity"
 ---
 
 That 3pm wall just sucker-punched you, didn't it?

@@ -9,11 +9,11 @@ featureImageAlt: "How to Choose the Right Career"
 featureImageCaption: "Photo by Clark Tibbs / Unsplash"
 featured: false
 tags:
-  - "Timeless Lessons"
-  - "Career & Work"
-  - "Personal Development"
-  - "Life Skills"
-  - "Business & Entrepreneurship"
+  - "timeless-lessons"
+  - "career-work"
+  - "personal-development"
+  - "life-skills"
+  - "business-entrepreneurship"
 ---
 
 When it comes to careers, most advice out there is either shallow  

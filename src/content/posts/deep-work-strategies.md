@@ -6,8 +6,8 @@ updated: "2025-08-16T18:32:20.000Z"
 excerpt: "Master the art of sustained, focused thinking in our distraction-filled world. Practical strategies for protecting your cognitive resources and doing your most important intellectual work."
 featured: false
 tags:
-  - "Productivity"
-  - "Business & Entrepreneurship"
+  - "productivity"
+  - "business-entrepreneurship"
 ---
 
 Let me ask you something: When was the last time you spent 3+ hours thinking deeply about one thing without checking your phone, responding to messages, or jumping between tasks?

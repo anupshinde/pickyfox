@@ -9,10 +9,10 @@ featureImageAlt: "7 Qualities That Invite Prosperity into Everyday Life"
 featureImageCaption: "Photo by Vladislav Zakharevich / Unsplash"
 featured: false
 tags:
-  - "Life Skills"
-  - "Career & Work"
-  - "Relationships & Family"
-  - "Timeless Lessons"
+  - "life-skills"
+  - "career-work"
+  - "relationships-family"
+  - "timeless-lessons"
 ---
 
 Many of us grow up believing that hard work alone will guarantee wealth and happiness. Yet, life often shows otherwise: some people work tirelessly but remain stuck in struggle, while others who achieve wealth still live without a sense of peace of mind. This raises a deeper question: *what really brings lasting prosperity and happiness into our lives?*

@@ -6,7 +6,7 @@ updated: "2025-08-17T05:31:39.000Z"
 excerpt: "Master the art of systematic problem-solving with proven frameworks and tools. From simple daily challenges to complex strategic decisions, here's how to think through problems like a pro."
 featured: false
 tags:
-  - "Personal Development"
+  - "personal-development"
 ---
 
 We all face problems. Some are small (why is my computer running slowly?), some are big (how do I pivot my career?), and some are just weird (why does my team keep making the same mistakes over and over?).

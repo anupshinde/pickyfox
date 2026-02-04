@@ -6,7 +6,7 @@ updated: "2025-08-17T05:23:17.000Z"
 excerpt: "Stuck in career quicksand with mortgage payments? How to pivot without burning your life down - battle-tested strategies from someone who changed careers at 34 with bills to pay."
 featured: false
 tags:
-  - "Career & Work"
+  - "career-work"
 ---
 
 Stuck in career quicksand with mortgage payments?

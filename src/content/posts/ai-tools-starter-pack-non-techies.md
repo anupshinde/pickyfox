@@ -8,9 +8,9 @@ featureImage: "/images/featured/post-ai-tools-starter-pack-non-techies.jpg"
 featureImageAlt: "Starter Pack: AI Tools"
 featured: false
 tags:
-  - "Artificial Intelligence"
-  - "Learning"
-  - "Productivity"
+  - "artificial-intelligence"
+  - "learning"
+  - "productivity"
 ---
 
 Everyone's raving about AI, but you still Google "how to PDF"?

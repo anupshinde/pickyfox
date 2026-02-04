@@ -6,8 +6,8 @@ updated: "2025-08-17T05:13:58.000Z"
 excerpt: "Stop doing repetitive digital tasks like a robot. Start with simple automations that save real time without requiring a computer science degree. For humans who want their devices to work harder so they don't have to."
 featured: false
 tags:
-  - "Productivity"
-  - "Technology"
+  - "productivity"
+  - "technology"
 ---
 
 Raise your hand if you've ever thought: "I swear I just did this exact same task yesterday... and the day before... and probably every day this week."

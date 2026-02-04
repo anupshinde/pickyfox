@@ -6,9 +6,9 @@ updated: "2025-08-17T05:17:21.000Z"
 excerpt: "Your brain just switched topics 6 times reading this sentence, didn't it? Curated by someone whose Chrome has 94 tabs open right now - extensions that work with ADHD chaos, not against it."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Productivity"
-  - "Technology"
+  - "health-wellness"
+  - "productivity"
+  - "technology"
 ---
 
 Your brain just switched topics 6 times reading this sentence, didn't it?

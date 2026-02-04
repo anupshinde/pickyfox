@@ -6,9 +6,9 @@ updated: "2025-08-17T05:33:39.000Z"
 excerpt: "Procrastinating on important tasks like it's your full-time job? These psychological tricks make hard work feel easier (and sometimes even enjoyable)."
 featured: false
 tags:
-  - "Life Skills"
-  - "Personal Development"
-  - "Productivity"
+  - "life-skills"
+  - "personal-development"
+  - "productivity"
 ---
 
 Procrastinating on important tasks like it's your full-time job?

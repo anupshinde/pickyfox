@@ -9,11 +9,11 @@ featureImageAlt: "Why Giving Cash Alone Doesn’t End Poverty"
 featureImageCaption: "Photo by Patrick Seguin / Unsplash"
 featured: false
 tags:
-  - "Timeless Lessons"
-  - "Business & Entrepreneurship"
-  - "Life Skills"
-  - "Relationships & Family"
-  - "Money & Finance"
+  - "timeless-lessons"
+  - "business-entrepreneurship"
+  - "life-skills"
+  - "relationships-family"
+  - "money-finance"
 ---
 
 Money is fuel, not an engine. Drop it into a broken system, and it burns out. Pair it with capability, guardrails, and feedback, and it transforms lives.

@@ -9,12 +9,12 @@ featureImageAlt: "Finding Freedom from Stress"
 featureImageCaption: "Photo by Ruru Lulu / Unsplash"
 featured: false
 tags:
-  - "Timeless Lessons"
-  - "Life Skills"
-  - "Health & Wellness"
-  - "Relationships & Family"
-  - "Career & Work"
-  - "Business & Entrepreneurship"
+  - "timeless-lessons"
+  - "life-skills"
+  - "health-wellness"
+  - "relationships-family"
+  - "career-work"
+  - "business-entrepreneurship"
 ---
 
 Stress doesn’t show up because life is unfair. It appears when a problem seems larger than the set of solutions you currently possess. The moment you have a way forward, the stress begins to fade.

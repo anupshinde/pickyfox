@@ -9,9 +9,9 @@ featureImageAlt: "Mental Models for Overwhelm"
 featureImageCaption: "Photo by Mental Models for Overwhelm / Unsplash"
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Personal Development"
-  - "Productivity"
+  - "health-wellness"
+  - "personal-development"
+  - "productivity"
 ---
 
 Drowning in decisions while your brain spins like a broken washing machine?

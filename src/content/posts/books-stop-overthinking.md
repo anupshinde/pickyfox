@@ -6,11 +6,11 @@ updated: "2025-08-17T05:21:25.000Z"
 excerpt: "Brain stuck in analysis paralysis mode? Books that actually stopped my mental spirals - no meditation fluff, just practical tools from a recovering overthinker who tried everything."
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Health & Wellness"
-  - "Personal Development"
-  - "Productivity"
-  - "Books"
+  - "content-creativity"
+  - "health-wellness"
+  - "personal-development"
+  - "productivity"
+  - "books"
 ---
 
 Brain stuck in analysis paralysis mode?

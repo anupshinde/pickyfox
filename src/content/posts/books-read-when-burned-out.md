@@ -6,9 +6,9 @@ updated: "2025-08-16T18:04:24.000Z"
 excerpt: "Brain fried from giving everything to work that gives nothing back? Books that actually help with burnout recovery - no toxic positivity or 'just work harder' BS."
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Health & Wellness"
-  - "Books"
+  - "content-creativity"
+  - "health-wellness"
+  - "books"
 ---
 
 Brain fried from giving everything to work that gives nothing back?

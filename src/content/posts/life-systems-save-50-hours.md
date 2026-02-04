@@ -6,9 +6,9 @@ updated: "2025-08-17T05:26:02.000Z"
 excerpt: "Tired of doing the same tasks over and over? These simple systems take an hour to set up but give you back weeks of your life."
 featured: false
 tags:
-  - "Life Skills"
-  - "Productivity"
-  - "Technology"
+  - "life-skills"
+  - "productivity"
+  - "technology"
 ---
 
 Tired of doing the same mind-numbing tasks over and over like you're stuck in some productivity purgatory?

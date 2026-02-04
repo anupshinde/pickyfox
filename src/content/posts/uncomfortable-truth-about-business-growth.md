@@ -9,10 +9,10 @@ featureImageAlt: "The Uncomfortable Truth About Business Growth"
 featureImageCaption: "Photo by Imagine Buddy / Unsplash"
 featured: false
 tags:
-  - "Timeless Lessons"
-  - "Business & Entrepreneurship"
-  - "Money & Finance"
-  - "Career & Work"
+  - "timeless-lessons"
+  - "business-entrepreneurship"
+  - "money-finance"
+  - "career-work"
 ---
 
 Most businesses don’t collapse because of fate, recessions, or bad luck. They stall because of patterns-avoidable ones. Growth isn’t magic, and it’s not about chasing hacks. It comes down to a handful of uncomfortable truths that many business owners resist facing.

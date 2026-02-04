@@ -9,9 +9,9 @@ featureImageAlt: "Budget Tools"
 featureImageCaption: "Photo by Mike Cho / Unsplash"
 featured: false
 tags:
-  - "Money & Finance"
-  - "Productivity"
-  - "Technology"
+  - "money-finance"
+  - "productivity"
+  - "technology"
 ---
 
 Budgeting feels like eating cardboard for dinner while watching paint dry?

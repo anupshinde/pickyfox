@@ -9,9 +9,9 @@ featureImageAlt: "Energy Management Guide"
 featureImageCaption: "Photo by Timon Studler / Unsplash"
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Personal Development"
-  - "Productivity"
+  - "health-wellness"
+  - "personal-development"
+  - "productivity"
 ---
 
 You know that feeling when it's 3 PM and your brain has officially left the building? When you're staring at your to-do list like it's written in ancient hieroglyphics, and your body feels like it's running on spiritual fumes?

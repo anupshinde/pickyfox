@@ -6,8 +6,8 @@ updated: "2025-08-17T05:30:25.000Z"
 excerpt: "Sick of algorithm anxiety and engagement theater? How to build real online presence without social media - battle-tested strategies from someone who quit the scroll and built something better."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Technology"
+  - "business-entrepreneurship"
+  - "technology"
 ---
 
 Sick of algorithm anxiety and engagement theater?

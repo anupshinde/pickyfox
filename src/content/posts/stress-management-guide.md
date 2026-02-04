@@ -8,8 +8,8 @@ featureImage: "/images/featured/post-stress-management-guide.jpg"
 featureImageAlt: "Stress Management Guide"
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Productivity"
+  - "health-wellness"
+  - "productivity"
 ---
 
 Let me guess: someone told you to "just breathe" when you mentioned feeling overwhelmed, and you seriously considered using their face as a stress ball.

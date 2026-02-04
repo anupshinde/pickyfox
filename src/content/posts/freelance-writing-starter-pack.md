@@ -6,11 +6,11 @@ updated: "2025-08-16T17:53:30.000Z"
 excerpt: "Freelancing feels like juggling fire while riding a unicycle? Here's your battle-tested survival kit for getting started without the guru BS."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Career & Work"
-  - "Content & Creativity"
-  - "Learning"
-  - "Freelance"
+  - "business-entrepreneurship"
+  - "career-work"
+  - "content-creativity"
+  - "learning"
+  - "freelance"
 ---
 
 Freelancing feels like juggling fire while riding a unicycle?

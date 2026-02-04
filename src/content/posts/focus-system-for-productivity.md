@@ -9,9 +9,9 @@ featureImageAlt: "Your Focus Isn’t a Willpower Problem"
 featureImageCaption: "Photo by Yosef Futsum / Unsplash"
 featured: false
 tags:
-  - "Timeless Lessons"
-  - "Productivity"
-  - "Life Skills"
+  - "timeless-lessons"
+  - "productivity"
+  - "life-skills"
 ---
 
 I used to think I had a discipline deficit. I’d sit down to study or build a product, and within minutes my brain would slip out the side door—email, charts, Reddit, anything but the work. I tried the usual “be stronger” tactics. Timers. Minimalist apps. Cold showers. None of it stuck.

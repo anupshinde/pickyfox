@@ -6,10 +6,10 @@ updated: "2025-08-17T05:25:19.000Z"
 excerpt: "Drowning in to-do lists but accomplishing nothing that matters? Easy wins that create real momentum without the productivity anxiety - battle-tested by a recovering perfectionist."
 featured: false
 tags:
-  - "Career & Work"
-  - "Health & Wellness"
-  - "Life Skills"
-  - "Productivity"
+  - "career-work"
+  - "health-wellness"
+  - "life-skills"
+  - "productivity"
 ---
 
 Drowning in to-do lists but accomplishing nothing that matters?

@@ -6,10 +6,10 @@ updated: "2025-08-17T05:44:16.000Z"
 excerpt: "Remote work feeling like chaos management? Free tools that actually solve remote work problems - battle-tested by someone who's worked remotely for 8 years without fancy software."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Career & Work"
-  - "Productivity"
-  - "Technology"
+  - "business-entrepreneurship"
+  - "career-work"
+  - "productivity"
+  - "technology"
 ---
 
 Remote work feeling like chaos management?

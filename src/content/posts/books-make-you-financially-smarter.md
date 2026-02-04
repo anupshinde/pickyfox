@@ -6,9 +6,9 @@ updated: "2025-08-17T05:20:49.000Z"
 excerpt: "Skip the generic money advice. These books actually changed how I think about and handle money - battle-tested by someone who made plenty of financial mistakes first."
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Money & Finance"
-  - "Books"
+  - "content-creativity"
+  - "money-finance"
+  - "books"
 ---
 
 Tired of financial advice that sounds like it was written by robots for people who live in spreadsheets?

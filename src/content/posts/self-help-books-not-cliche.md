@@ -6,10 +6,10 @@ updated: "2025-08-16T17:51:14.000Z"
 excerpt: "Tired of self-help books that sound like motivational poster slogans? These actually helpful books skip the fluff and deliver real strategies."
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Learning"
-  - "Personal Development"
-  - "Books"
+  - "content-creativity"
+  - "learning"
+  - "personal-development"
+  - "books"
 ---
 
 Tired of self-help books that sound like motivational poster slogans had a baby with corporate buzzwords?

@@ -6,10 +6,10 @@ updated: "2025-08-16T17:58:12.000Z"
 excerpt: "Working from your kitchen table like a digital nomad? Here's how to build a proper remote setup without selling a kidney."
 featured: false
 tags:
-  - "Career & Work"
-  - "Learning"
-  - "Money & Finance"
-  - "Productivity"
+  - "career-work"
+  - "learning"
+  - "money-finance"
+  - "productivity"
 ---
 
 Working from your kitchen table like some kind of digital nomad documentary?

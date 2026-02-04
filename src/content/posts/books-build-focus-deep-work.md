@@ -6,9 +6,9 @@ updated: "2025-08-17T05:18:04.000Z"
 excerpt: "Attention span shot to hell by notifications and infinite scroll? Books that rebuild focus muscle with practical techniques - battle-tested by someone with ADHD brain and squirrel-level attention."
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Productivity"
-  - "Books"
+  - "content-creativity"
+  - "productivity"
+  - "books"
 ---
 
 Attention span shot to hell by notifications and infinite scroll?

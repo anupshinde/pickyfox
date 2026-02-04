@@ -6,8 +6,8 @@ updated: "2025-08-17T05:22:19.000Z"
 excerpt: "Learn to set boundaries without feeling like a terrible person. Real strategies for people-pleasers, overthinkers, and anyone who's tired of being everyone's go-to person for everything."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Relationships & Family"
+  - "health-wellness"
+  - "relationships-family"
 ---
 
 Let me paint a picture: It's 9 PM, you're exhausted, and someone texts asking if you can "quickly" handle something that definitely isn't quick. Your brain screams "NO!" but your thumbs type "Sure, no problem!"

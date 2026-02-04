@@ -6,9 +6,9 @@ updated: "2025-08-16T18:39:57.000Z"
 excerpt: "A practical beginner's guide to reclaiming your attention and peace of mind in our hyper-connected world. Start small, see big changes."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Productivity"
-  - "Technology"
+  - "health-wellness"
+  - "productivity"
+  - "technology"
 ---
 
 Feeling like your phone owns you instead of the other way around?

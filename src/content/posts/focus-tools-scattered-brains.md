@@ -6,9 +6,9 @@ updated: "2025-08-17T05:43:33.000Z"
 excerpt: "Real focus tools for people whose brains jump from task to task like caffeinated squirrels. No meditation apps that make you feel guilty - just practical tools that work with your scattered brain, not against it."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Productivity"
-  - "Technology"
+  - "health-wellness"
+  - "productivity"
+  - "technology"
 ---
 
 Let me guess: you started reading this post, got distracted by a notification, checked three other things, remembered you were supposed to do something important, got overwhelmed, and now you're back here hoping to find something that actually helps your brain stay on track for more than 17 minutes.

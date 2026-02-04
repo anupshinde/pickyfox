@@ -6,11 +6,11 @@ updated: "2025-08-17T05:15:51.000Z"
 excerpt: "Starting your content journey but broke? These tools will help you create professional-looking content without selling a kidney."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Content & Creativity"
-  - "Learning"
-  - "Money & Finance"
-  - "Productivity"
+  - "business-entrepreneurship"
+  - "content-creativity"
+  - "learning"
+  - "money-finance"
+  - "productivity"
 ---
 
 Starting your content journey but your budget is basically pocket lint?

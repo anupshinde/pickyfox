@@ -6,10 +6,10 @@ updated: "2025-08-17T05:34:21.000Z"
 excerpt: "Building a side hustle with just weekends? These tools will help you work smart when you can't work more hours."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Career & Work"
-  - "Productivity"
-  - "Technology"
+  - "business-entrepreneurship"
+  - "career-work"
+  - "productivity"
+  - "technology"
 ---
 
 Building a side hustle with just weekends and a few evening hours?

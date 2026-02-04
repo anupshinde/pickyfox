@@ -6,11 +6,11 @@ updated: "2025-08-17T05:18:49.000Z"
 excerpt: "Drowning in freelancer advice but still pricing like it's 2015? Books that built my 6-figure freelance empire - actually read and applied, not just collected for Instagram photos."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Career & Work"
-  - "Content & Creativity"
-  - "Books"
-  - "Freelance"
+  - "business-entrepreneurship"
+  - "career-work"
+  - "content-creativity"
+  - "books"
+  - "freelance"
 ---
 
 Drowning in freelancer advice but still pricing like it's 2015?

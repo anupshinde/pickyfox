@@ -6,9 +6,9 @@ updated: "2025-08-17T05:35:21.000Z"
 excerpt: "Work bleeding into life bleeding into work? Simple boundary rituals that actually work - battle-tested by someone who's worked from home for 8 years without losing their mind."
 featured: false
 tags:
-  - "Career & Work"
-  - "Productivity"
-  - "Relationships & Family"
+  - "career-work"
+  - "productivity"
+  - "relationships-family"
 ---
 
 Work bleeding into life bleeding into work?

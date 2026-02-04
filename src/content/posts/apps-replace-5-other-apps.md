@@ -6,8 +6,8 @@ updated: "2025-08-17T05:13:12.000Z"
 excerpt: "Phone cluttered with 47 apps that do basically the same thing? These multi-purpose apps will declutter your digital life and actually work better."
 featured: false
 tags:
-  - "Productivity"
-  - "Technology"
+  - "productivity"
+  - "technology"
 ---
 
 Phone cluttered with 47 apps that do basically the same thing?

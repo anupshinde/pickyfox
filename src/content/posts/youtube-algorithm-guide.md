@@ -8,10 +8,10 @@ featureImage: "/images/featured/post-youtube-algorithm-guide.jpg"
 featureImageCaption: "Photo by Zulfugar Karimov / Unsplash"
 featured: false
 tags:
-  - "Content & Creativity"
-  - "Business & Entrepreneurship"
-  - "Technology"
-  - "Tools & Resources"
+  - "content-creativity"
+  - "business-entrepreneurship"
+  - "technology"
+  - "tools-resources"
 ---
 
 The YouTube algorithm isn’t magic. It’s not guesswork. And it’s definitely not about “hacks.”  

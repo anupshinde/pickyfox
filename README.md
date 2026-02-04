@@ -34,6 +34,8 @@ npm run preview
 - Layouts: `src/layouts`
 - Routes: `src/pages`
 - Featured images: `public/images/featured`
+- Tag taxonomy map: `src/config/tagTaxonomy.ts` (slug -> title)
+- Post tags in frontmatter should use slugs (for example: `career-work`)
 
 ## Third-Party Scripts
 - Add third-party analytics/ad scripts in `src/config/thirdPartyScripts.ts`.

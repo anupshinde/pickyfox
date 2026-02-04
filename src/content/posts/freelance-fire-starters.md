@@ -9,8 +9,8 @@ featureImageAlt: "Books That Ignite Your Hustle"
 featureImageCaption: "Photo by Nik / Unsplash"
 featured: false
 tags:
-  - "Books"
-  - "Freelance"
+  - "books"
+  - "freelance"
 ---
 
 Curated by a six-figure freelancer who actually read these

@@ -6,8 +6,8 @@ updated: "2025-08-16T18:29:51.000Z"
 excerpt: "Degree gatekeepers keeping you out of data science? Time to break down the walls. Self-taught route that landed 6-figure data roles - no student debt required."
 featured: false
 tags:
-  - "Career & Work"
-  - "Learning"
+  - "career-work"
+  - "learning"
 ---
 
 Degree gatekeepers keeping you out of data science? Time to break down the walls.

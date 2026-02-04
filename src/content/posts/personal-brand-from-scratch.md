@@ -6,9 +6,9 @@ updated: "2025-08-17T05:30:55.000Z"
 excerpt: "Personal branding sounds like corporate buzzword soup? Here's how to build authentic professional presence without selling your soul."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Career & Work"
-  - "Learning"
+  - "business-entrepreneurship"
+  - "career-work"
+  - "learning"
 ---
 
 Personal branding sounds like corporate buzzword soup mixed with influencer delusions?

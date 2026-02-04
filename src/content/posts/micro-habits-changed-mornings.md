@@ -6,10 +6,10 @@ updated: "2025-08-17T05:29:52.000Z"
 excerpt: "Mornings feeling like emotional chaos with caffeine? Tiny changes that transformed my mornings from survival mode to actually functional - no meditation or 5AM alarms required."
 featured: false
 tags:
-  - "Health & Wellness"
-  - "Life Skills"
-  - "Personal Development"
-  - "Productivity"
+  - "health-wellness"
+  - "life-skills"
+  - "personal-development"
+  - "productivity"
 ---
 
 Mornings feeling like emotional chaos with caffeine?

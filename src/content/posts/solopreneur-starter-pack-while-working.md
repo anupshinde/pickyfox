@@ -6,9 +6,9 @@ updated: "2025-08-17T05:32:34.000Z"
 excerpt: "Dreaming of escape while pretending to care about quarterly reports? From 6-figure corporate to 6-figure freelancer - here's the real roadmap that won't get you fired before you're ready."
 featured: false
 tags:
-  - "Business & Entrepreneurship"
-  - "Career & Work"
-  - "Learning"
+  - "business-entrepreneurship"
+  - "career-work"
+  - "learning"
 ---
 
 Dreaming of escape while pretending to care about quarterly reports?
