@@ -18,27 +18,62 @@ const SECONDARY_SECTION_POST_COUNT = 5;
 const formatDate = (value: string | undefined) =>
   new Date(value || '').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
 
+// Tracks every post already placed on the homepage to prevent repeat cards.
 const usedPostSlugs = new Set<string>();
+// Tracks lead picks so the same post is not used as the hero in multiple main sections.
+const usedMainLeadSlugs = new Set<string>();
 
 const latestPosts = allPosts.slice(0, LATEST_COUNT);
 for (const post of latestPosts) {
   usedPostSlugs.add(post.slug);
 }
 
+const postsForTag = (tagSlug: TagSlug) => allPosts.filter((post) => post.data.tags?.includes(tagSlug));
+
 const pickUniquePostsForTag = (tagSlug: TagSlug, count: number) => {
   const selected = [];
-  for (const post of allPosts) {
+  for (const post of postsForTag(tagSlug)) {
     if (selected.length >= count) break;
     if (usedPostSlugs.has(post.slug)) continue;
-    if (!post.data.tags?.includes(tagSlug)) continue;
     selected.push(post);
+  }
+  for (const post of selected) {
     usedPostSlugs.add(post.slug);
   }
   return selected;
 };
 
+const pickMainSectionPosts = (tagSlug: TagSlug, count: number) => {
+  const taggedPosts = postsForTag(tagSlug);
+  const uniqueTaggedPosts = taggedPosts.filter((post) => !usedPostSlugs.has(post.slug));
+
+  // For main section leads, prioritize a post with a feature image.
+  // If needed, allow a duplicate from earlier sections to preserve layout quality.
+  const lead =
+    uniqueTaggedPosts.find((post) => Boolean(post.data.featureImage) && !usedMainLeadSlugs.has(post.slug)) ||
+    taggedPosts.find((post) => Boolean(post.data.featureImage) && !usedMainLeadSlugs.has(post.slug)) ||
+    uniqueTaggedPosts[0] ||
+    taggedPosts[0];
+
+  if (!lead) return [];
+
+  usedMainLeadSlugs.add(lead.slug);
+  usedPostSlugs.add(lead.slug);
+
+  const more = [];
+  for (const post of uniqueTaggedPosts) {
+    if (more.length >= count - 1) break;
+    if (post.slug === lead.slug) continue;
+    if (usedPostSlugs.has(post.slug)) continue;
+    more.push(post);
+    usedPostSlugs.add(post.slug);
+  }
+
+  return [lead, ...more];
+};
+
 const mainSections = MAIN_TAGS.map((tagSlug) => {
-  const posts = pickUniquePostsForTag(tagSlug, MAIN_SECTION_POST_COUNT);
+  const posts = pickMainSectionPosts(tagSlug, MAIN_SECTION_POST_COUNT);
   return {
     tagSlug,
     title: TAG_TITLE_BY_SLUG[tagSlug],
